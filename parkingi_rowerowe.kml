@@ -148,10 +148,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93222200100007,50.060649</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Mazowiecka 13  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929951,50.073363</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefa 20  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944842642000026,50.05066536600003</coordinates></Point>
@@ -183,10 +179,6 @@
     <name>  Osiedle  Tysiąclecia 57 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998799407000035,50.09209800900004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kronikarza Galla 23  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.913878,50.0724397</coordinates></Point>
   </Placemark>  <Placemark>
     <name> pow wył z ruchu Grzegórzecka 90  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -239,10 +231,6 @@
     <name>  rtm. Zbigniewa Dunin-Wąsowicza 7  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.923714001000064,50.057559</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Królewska 25  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.922019001000024,50.071738</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Albertyńskie 36 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -319,10 +307,6 @@
     <name>  Łąkowa 31 szkoła (x12)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98476179200003,50.07368432100003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Młyńska Boczna 4 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.973263,50.083079</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Rakowicka 12  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -615,10 +599,6 @@
     <name> chodnik Rzeźnicza 18  (x9)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95608800100007,50.055549</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Macieja Miechowity 9  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965849,50.083205</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Czarnowiejska 77  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1656,10 +1636,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.909941,50.066024</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Helclów 7  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93672,50.072466</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zieleniec Podgórska 36  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.957302,50.052753</coordinates></Point>
@@ -1844,6 +1820,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.949396,50.057574</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Prądnicka 65  (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93849,50.086508</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Albertyńskie 22a  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.017531999000028,50.083243</coordinates></Point>
@@ -1855,10 +1835,6 @@
     <name>  Podedworze 2a przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.970483469000044,50.01407027000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Młyńska 10  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.971402483000077,50.082983083000045</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  szkoła (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1939,10 +1915,6 @@
     <name>  Kamedulska 70  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.87356473500006,50.04822127700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Prądnicka 12  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.936347,50.075979</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Handlowe 4 szkoła (x17)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2083,10 +2055,6 @@
     <name>  Myśliwska 64  (x30)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.991892885000027,50.04562420100007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Zakątek 2 szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91625,50.075778</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Młodości 8  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2836,6 +2804,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.979301,50.061202</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Osiedle  Handlowe 1 os. Handlowe 1 od strony al. Jana Pawła II (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.0307757,50.0722903</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Piastów 24a os. Piastów 25 od strony ul. Popielidów (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.020661,50.098885</coordinates></Point>
@@ -2927,10 +2899,6 @@
     <name> chodnik Osiedle  Szklane Domy 1b os. Szklane Domy 1 od strony Parku Szwedzkiego (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04237634800006,50.07474347700003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kalinowe 15 os. Kalinowe 15-16 przy kiosku (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.013281,50.091826</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Złotej Jesieni 7 os. Jagiellońskie 7 przy przystanku KMK (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3159,10 +3127,6 @@
     <name> chodnik Marszałka Józefa Piłsudskiego 22 inne (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.928752721000023,50.05986575700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Długa 35 inne (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937330099000064,50.069872445000044</coordinates></Point>
   </Placemark>  <Placemark>
     <name> wyl_z_ruchu Bolesława Prusa 15 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3403,10 +3367,6 @@
     <name> chodnik Długa 55 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.936383525000053,50.07122863600006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Długa 46 inne (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93722481700007,50.06980122700003</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Marszałka Józefa Piłsudskiego 17 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3715,10 +3675,6 @@
     <name> chodnik (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93829184300006,50.06975047700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93807232300003,50.06937010200005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
