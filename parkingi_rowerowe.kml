@@ -468,10 +468,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926074,50.063791</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Wielkiego 112  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.913902,50.07464</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Grzegórzecka 20  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.953862,50.058613</coordinates></Point>
@@ -2208,10 +2204,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96531729900005,50.057373032000044</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Młyńska Boczna 4 przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.973436844000048,50.083054676000074</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Zygmunta Augusta 3  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.950496,50.065404</coordinates></Point>
@@ -2307,10 +2299,6 @@
     <name> zieleniec Osiedle  Na Lotnisku 21  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.018643826000073,50.08770943300004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Basztowa 10  (x11)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93915799900003,50.066148</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Królowej Jadwigi 20  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2591,10 +2579,6 @@
     <name> zatoka Cypriana Godebskiego 21  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.111665999000024,50.106044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Młodej Polski 7 przychodnia (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.901877,50.073672</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia Józefa Dietla 91  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2883,10 +2867,6 @@
     <name> trawnik ks. Franciszka Blachnickiego 10  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.952541,50.05582</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ernesta Cieślewskiego 1  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.980007001000047,50.084262</coordinates></Point>
   </Placemark>  <Placemark>
     <name>   Kazimierza Odnowiciela 2 szkoła (x16)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3284,10 +3264,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.938443880000023,50.084605674000045</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Wojciecha Weissa 14 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90956579300007,50.08653831400005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> Królewska 69 inne (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91115525400005,50.07430339800004</coordinates></Point>
@@ -3359,10 +3335,6 @@
     <name> Dziewiarzy 7 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.806972632000054,50.01795191000008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Kluczborska 4 inne (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929565014000048,50.08709092700008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Królewska 57 inne (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
