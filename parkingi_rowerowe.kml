@@ -184,10 +184,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968352,50.058026</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Wielkiego 140  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91196,50.074911</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu Grzegórzecka 90  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968222,50.057994</coordinates></Point>
@@ -1052,10 +1048,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94765613100003,50.039496031000056</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Lucjana Rydla 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90080499900006,50.075556</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Kazimierza Kordylewskiego 11  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961675,50.061643</coordinates></Point>
@@ -1448,10 +1440,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937265,50.044079</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Wielkiego 112a  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.914125316000025,50.07469549600006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Rondo  Mogilskie 1  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.959018,50.065711</coordinates></Point>
@@ -1743,10 +1731,6 @@
     <name>  Osiedle  Teatralne 25  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.030513368000072,50.07961104700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Urzędnicza 65  (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.921184999000047,50.074132</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Generała Tadeusza Kutrzeby 4  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2176,10 +2160,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.921436,50.045162</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Lucjana Rydla 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.900853,50.075711</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Obozowa 22A  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.90625502000006,50.01270737100003</coordinates></Point>
@@ -2332,10 +2312,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93915799900003,50.066148</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik św. Teresy 6  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93263,50.071284</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Królowej Jadwigi 20  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.912978001000056,50.053974</coordinates></Point>
@@ -2355,10 +2331,6 @@
     <name> chodnik Aleja Adama Mickiewicza 21  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.925192103516,50.06556004400005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Oskara Kolberga 12  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.934183,50.072068</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Stanisława Przybyszewskiego 83  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2536,10 +2508,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.029588,50.083055</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Wielkiego 140  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.911806,50.074999</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> wyl_z_ruchu Straszewskiego 2  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.934772,50.055407</coordinates></Point>
@@ -2616,10 +2584,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954717,50.058138</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Łobzowska 44  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.928074999000046,50.071271</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Willowe 37  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.052927440000076,50.071121</coordinates></Point>
@@ -2664,10 +2628,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927745306000077,50.063798492000046</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Krowoderska 58  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.933206,50.071512</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zatoka Nowosądecka 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977737621000074,50.01907105200007</coordinates></Point>
@@ -2680,10 +2640,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945026,50.042787</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Krowoderskich Zuchów 21  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92723599900006,50.088744</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Osiedle  Na Lotnisku 17  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.016377001000023,50.087521</coordinates></Point>
@@ -2695,14 +2651,6 @@
     <name> chodnik Zamkowa 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.930504,50.052118</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krowoderskich Zuchów 21  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927159,50.08891</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krowoderskich Zuchów 22  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926925,50.088957</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Centrum D 4  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2767,10 +2715,6 @@
     <name> chodnik Osiedle  Bohaterów Września 1e os. Bohaterów Września 1e przy ul. Piasta Kołodzieja w Pkt. Mobilności Kleeberga (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.012447,50.095259</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Stanisława Staszica 11  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.932734,50.071293</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Aleja  Pokoju 20 al. Pokoju 20 przy ul. Zwycięstwa (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
