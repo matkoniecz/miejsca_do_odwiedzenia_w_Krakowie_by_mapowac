@@ -588,10 +588,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95608800100007,50.055549</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Czarnowiejska 77  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917231,50.067694</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Stradomska 10  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94035404500005,50.05305735300004</coordinates></Point>
@@ -1180,10 +1176,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.947243,50.054646</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Pielęgniarek 2  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.936779999000066,50.08351</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Centrum C 8  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.035094,50.07411</coordinates></Point>
@@ -1623,10 +1615,6 @@
     <name>  Osiedle  Dywizjonu 303 66 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007345671000053,50.083226369000045</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kołowa 5  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.89797,50.071037</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Pomorska 10  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3231,10 +3219,6 @@
     <name> chodnik Grażyny 1 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.948039467000058,50.08824801600008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Prądnicka 49 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.938443880000023,50.084605674000045</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Królewska 69 inne (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
