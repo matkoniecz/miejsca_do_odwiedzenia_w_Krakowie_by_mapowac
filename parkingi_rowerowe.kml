@@ -120,10 +120,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94255,50.038462</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja  29 Listopada 7  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.946484,50.073984</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Marszałka Józefa Piłsudskiego 38 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926198232000047,50.05947197300003</coordinates></Point>
@@ -876,10 +872,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.923929,50.05764</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Wita Stwosza 4  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949209,50.070834</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> jezdnia Jana Kasprowicza 17  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96568,50.06826</coordinates></Point>
@@ -1196,10 +1188,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.035094,50.07411</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Czarnowiejska 93  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.915836,50.067612</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Czarnogórska 14 szkoła (x12)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.971002096000063,50.019004548000055</coordinates></Point>
@@ -1288,10 +1276,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04319582000005,50.07004340300006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik ks. bpa Władysława Bandurskiego 18  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.960538701000075,50.06984937300007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Kazimierzowskie 28 szkoła (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02189842200005,50.08672790400004</coordinates></Point>
@@ -1311,10 +1295,6 @@
     <name> chodnik Osiedle  Przy Arce 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02995088800003,50.081672508000054</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Czarnowiejska 91b  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91605099900005,50.067616</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Aleja Edwarda Dembowskiego 12 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1375,10 +1355,6 @@
     <name>  Osiedle  Kolorowe 28 przedszkole (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02259011700005,50.075071980000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Czarnowiejska 97a  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.915430652000055,50.06759464700008</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Barska 45 szkoła (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1695,10 +1671,6 @@
     <name>  Aleja  Kijowska 3 szkoła (x11)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.912891,50.069095</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Prądnicka 27  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937419,50.08144</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Bieżanowska 204 szkoła (x15)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3276,18 +3248,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91866376200005,50.072287447000065</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> Królewska 45 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919333309000024,50.07211400300008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Długa 64 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.936116645000027,50.071146802000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Długa 55 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.936383525000053,50.07122863600006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Marszałka Józefa Piłsudskiego 17 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92957758700004,50.06019214200006</coordinates></Point>
@@ -3539,10 +3499,6 @@
     <name> chodnik (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04965375000006,50.097837405000064</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96391254200006,50.08315870000007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
