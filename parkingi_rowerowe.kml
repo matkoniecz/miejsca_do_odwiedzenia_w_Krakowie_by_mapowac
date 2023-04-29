@@ -32,10 +32,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.05860117900005,50.064870718000066</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Lucjana Rydla 18  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.900184,50.076955</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  rtm. Zbigniewa Dunin-Wąsowicza 9  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.923508,50.057478</coordinates></Point>
@@ -891,10 +887,6 @@
     <name> chodnik Bosacka 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.949788,50.067675</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Wielkiego 40 szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92160300100005,50.072438</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Rzeźnicza 10  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1972,6 +1964,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.036815,50.07764</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Lucjana Rydla 17  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.901159,50.076869</coordinates></Point>
+  </Placemark>  <Placemark>
     <name>  Smolki 10  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942582999000024,50.041335</coordinates></Point>
@@ -1987,10 +1983,6 @@
     <name> chodnik Osiedle  Ogrodowe 2  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.044116,50.071912</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Lucjana Rydla 20  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.901116001000048,50.077041</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Myśliwska 64  (x30)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2232,10 +2224,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929714,50.015313</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Włodzimierza Tetmajera 2  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.880872,50.086378</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Aleja Juliusza Słowackiego 12  (x9)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927035999000054,50.070373</coordinates></Point>
@@ -2411,10 +2399,6 @@
     <name> chodnik Smolki 11  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942256,50.041729</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefitów 6  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924104999000065,50.071162</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Józefa Dietla 39  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3671,10 +3655,6 @@
     <name> trawnik szkoła (x9)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.983483354000043,50.07398250800003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91720166700003,50.067921667000064</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
