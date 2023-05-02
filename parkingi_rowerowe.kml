@@ -748,10 +748,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.924151,50.062298</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Złotego Wieku 13 przedszkole (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.000884,50.097338</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Józefińska 9  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95137599900005,50.045917</coordinates></Point>
@@ -775,10 +771,6 @@
     <name> chodnik Osiedle  Centrum D 8  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.034954,50.072012</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Złotego Wieku 4 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.999940692000052,50.09770318500006</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Branicka 26 szkoła (x25)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1468,10 +1460,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91994935100007,50.047359766000056</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Aleja  29 Listopada 39E  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95063900100007,50.080176</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zieleniec Świtezianki 7 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.978612319000035,50.062369610000076</coordinates></Point>
@@ -1539,10 +1527,6 @@
     <name> chodnik św. Gertrudy 2  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.941587,50.059086</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  29 Listopada 39F przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952782610000042,50.07973483000006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Grunwaldzka 13  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
