@@ -264,10 +264,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.006347855000058,50.08357515500006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Czarnowiejska 39  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.921786,50.066361</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Kolna 19  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.828675,50.030667</coordinates></Point>
@@ -1620,10 +1616,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.999631,50.090887</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja Zygmunta Krasińskiego 4  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927750999000068,50.055286</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Aleja  Kijowska 3 szkoła (x11)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.912891,50.069095</coordinates></Point>
@@ -1967,10 +1959,6 @@
     <name> chodnik Miodowa 42  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.948788,50.053828</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kapelanka 54  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926053,50.034073</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Mogilska 43b  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
