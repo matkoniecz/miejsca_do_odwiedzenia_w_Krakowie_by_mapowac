@@ -624,17 +624,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96793,50.073597</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Michała Bałuckiego 9A  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925914,50.049236</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zieleniec Generała Tadeusza Kutrzeby 4  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940947,50.040883</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Michała Bałuckiego 35  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924951730000032,50.04691550500007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Pędzichów 27  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1772,10 +1764,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926510189000055,50.058327863000045</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Szwedzka 32  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92423,50.046633</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Dywizjonu 303 66  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.00731600100005,50.083169</coordinates></Point>
@@ -2556,10 +2544,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.016377001000023,50.087521</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Zwierzyniecka 29A  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929097,50.056362</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Zamkowa 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.930504,50.052118</coordinates></Point>
@@ -3016,17 +3000,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94668488600007,50.04257836000005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zatoka Profesora Michała Bobrzyńskiego 33 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.89734590000006,50.02004390400003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> prof. Władysława Konopczyńskiego 17 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.89610361000007,50.01853269500003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Czerwone Maki 77 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.889570647000028,50.01795224000006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Żywiecka 44 inne (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3356,10 +3332,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.043283384000063,50.078966861000026</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> Zachodnia 27 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.904864885000052,50.02666507200007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Powstańców 48 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.982041005000042,50.101466112000026</coordinates></Point>
@@ -3387,14 +3359,6 @@
     <name> zatoka inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.983117768000056,50.04544671800005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.890253150000035,50.01845223300006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.890115584000057,50.018499</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
