@@ -1176,14 +1176,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.045232,50.077578</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Centrum D 5  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.033972,50.072957</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Centrum D 5  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034321,50.072925</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Willowe 30  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04947499900004,50.071299</coordinates></Point>
@@ -1259,10 +1251,6 @@
     <name> chodnik Osiedle  Teatralne 4a  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.028948,50.080056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Centrum D 4  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.033427,50.072982</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Mała 5  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1928,17 +1916,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02384899900005,50.089365</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Lubelska 27  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.934553633000064,50.07436123200006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Stefana Grota-Roweckiego 1  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.925321,50.03064</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Centrum D 5  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.03413,50.072945</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Krakusa 25  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2491,10 +2471,6 @@
     <name> chodnik Zamkowa 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.930504,50.052118</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum D 4  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.033183999000073,50.072868</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Zamkowa 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
