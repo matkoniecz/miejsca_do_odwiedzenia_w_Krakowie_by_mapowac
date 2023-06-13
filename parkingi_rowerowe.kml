@@ -2032,10 +2032,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93422029000004,50.094109185000036</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Drożyska 13 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.194251630000053,50.055670589000044</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Szkolne 18  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04752324800006,50.08044296000003</coordinates></Point>
