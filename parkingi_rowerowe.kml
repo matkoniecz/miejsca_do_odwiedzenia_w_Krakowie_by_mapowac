@@ -660,14 +660,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.923623470000052,50.02664366600004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Aleja  Kijowska 8 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.914816,50.070082</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Józefa Sawy-Calińskiego 12 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.178446991000044,50.09879628900006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Śląska 7  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933138,50.074385</coordinates></Point>
@@ -1055,10 +1047,6 @@
     <name> zieleniec Osiedle  Jagiellońskie 25  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.024581999000077,50.088137</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Teatralne 4  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.028131,50.079408</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Zielone 28  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1480,10 +1468,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.922282,50.049654</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Pędzichów 20  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.938954999000032,50.071067</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Grzegórzecka 49  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956402999000034,50.057611</coordinates></Point>
@@ -1563,10 +1547,6 @@
     <name>  Osiedle  Dywizjonu 303 66 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007230466000067,50.08303780800003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Tysiąclecia 12 przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.999631,50.090887</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Aleja  Kijowska 3 szkoła (x11)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1972,14 +1952,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.034565,50.079714</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Aleja  Kijowska 8 szkoła (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.915045990000067,50.070053776000066</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Jaskrowa 5 szkoła (x13)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.123707239000055,50.09994115300003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Telimeny 7 przedszkole (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01771539500004,50.01946647200003</coordinates></Point>
@@ -2011,10 +1983,6 @@
     <name> chodnik Rzeźnicza 18  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956085,50.055509</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum B 5  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.039640001000066,50.074622</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia Władysława Syrokomli 21  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2200,10 +2168,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007215,50.083001</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja Juliusza Słowackiego 13B  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929263424000055,50.07113436800006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> jezdnia Czysta 7  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92662000100006,50.06384</coordinates></Point>
@@ -2260,10 +2224,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.99522,50.073646</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum B 4  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.039212,50.074743</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefa Dietla 76  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94507,50.056474</coordinates></Point>
@@ -2283,10 +2243,6 @@
     <name> chodnik Bulwarowa 37  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.048402,50.080538</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  2 Pułku Lotniczego 41  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.003916,50.074713</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Plac  Na Groblach 12  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2360,10 +2316,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.934807,50.070659</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Cypriana Godebskiego 4  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.111462636000056,50.107297595000034</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Stanisława Worcella 9  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944664034000027,50.06607653000003</coordinates></Point>
@@ -2375,10 +2327,6 @@
     <name> chodnik Osiedle  Szkolne 4  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.047115001000066,50.075952</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Cypriana Godebskiego 29  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.110853,50.107287</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Szklane Domy 1  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2415,10 +2363,6 @@
     <name> chodnik Osiedle  Willowe 37  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.052927440000076,50.071121</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zatoka Cypriana Godebskiego 21  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.111665999000024,50.106044</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia Józefa Dietla 91  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2840,10 +2784,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.030410549000067,50.07445345200006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> Chocimska 22 szkoła (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.914937122000026,50.070065827000064</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> Osiedle  Spółdzielcze 5 przedszkole (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.026330693000034,50.07674120000007</coordinates></Point>
@@ -3219,10 +3159,6 @@
     <name> trawnik Osiedle  Kolorowe 22 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021661983000058,50.07349355000008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 23 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020909164000045,50.07363964900003</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik Osiedle  Kolorowe 29 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
