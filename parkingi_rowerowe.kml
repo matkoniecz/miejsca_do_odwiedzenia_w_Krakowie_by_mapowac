@@ -2184,10 +2184,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.023219,50.07483</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Andrzeja Mycielskiego 11  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.112583097000027,50.10737660800004</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Wandy 30  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.052299,50.068716</coordinates></Point>
@@ -2284,10 +2280,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.930399,50.051762</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja Juliusza Słowackiego 13B  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.928835,50.070942</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Osiedle  Przy Arce 14  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.029588,50.083055</coordinates></Point>
@@ -2299,10 +2291,6 @@
     <name> chodnik Józefińska 5  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95076800100003,50.045967</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Eliasza Radzikowskiego 142  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.892872999000076,50.086618</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia Wielopole 13  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
