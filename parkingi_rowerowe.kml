@@ -344,10 +344,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.922692,50.076088</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Willowe 29  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.050328,50.071143</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Dywizjonu 303 49 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.00973599200006,50.08218354600007</coordinates></Point>
@@ -792,10 +788,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.917264,50.014681</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Mikołaja Kopernika 27  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.954951,50.06368</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Przy Arce 16  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02909,50.082816</coordinates></Point>
@@ -827,10 +819,6 @@
     <name> chodnik Bosacka 20  (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.949209,50.068923</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Willowe 29  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.05059127100003,50.070999190000066</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Szwedzka 42 szkoła (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1164,10 +1152,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.045232,50.077578</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Willowe 30  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04947499900004,50.071299</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Ugorek 10c  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.979988999000057,50.075331</coordinates></Point>
@@ -1175,10 +1159,6 @@
     <name>  Osiedle  Handlowe 3 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.031142,50.073397</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Urocze 1  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.038075,50.076604</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Na Skarpie 8 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1316,10 +1296,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937265,50.044079</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Rondo  Mogilskie 1  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959018,50.065711</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Myśliwska 64 szkoła (x15)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.991813,50.04562</coordinates></Point>
@@ -1331,10 +1307,6 @@
     <name>  Wadowicka 1  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940169,50.036428</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Urocze 12  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.039187897000033,50.07860084100008</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Piastów 48 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1523,10 +1495,6 @@
     <name>  Doktora Judyma 10 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91776754600005,50.00099334200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Słoneczne 9  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.044199,50.077931</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Rzeźnicza 2a  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2212,10 +2180,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927254,50.011993</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja  Jana Pawła II 31  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.99522,50.073646</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefa Dietla 76  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94507,50.056474</coordinates></Point>
@@ -2231,10 +2195,6 @@
     <name> chodnik Centralna 53  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007445001000065,50.063613</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Bulwarowa 37  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.048402,50.080538</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Plac  Na Groblach 12  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2312,10 +2272,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.047115001000066,50.075952</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Szklane Domy 1  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.041229,50.074724</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Szkolne 17  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.046961175000035,50.07970376900005</coordinates></Point>
@@ -2327,10 +2283,6 @@
     <name> chodnik Marszałka Józefa Piłsudskiego 36  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926133,50.059641</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Sportowe 12  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.047250001000066,50.08064</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Stanisława Przybyszewskiego 64  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2431,10 +2383,6 @@
     <name> zieleniec Osiedle  Piastów 26 os. Piastów 24 od strony ul. Popielidów (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021963,50.099007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum C 5 os. Centrum C 10 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.036653,50.074521</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Piastów 13 os. Piastów 13 (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
