@@ -2000,10 +2000,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93422029000004,50.094109185000036</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Szkolne 18  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04752324800006,50.08044296000003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Aleja Adolfa Dygasińskiego 25 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.989928159000044,50.02138201400004</coordinates></Point>
