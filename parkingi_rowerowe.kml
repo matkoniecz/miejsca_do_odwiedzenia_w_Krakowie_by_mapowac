@@ -744,10 +744,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94692278800005,49.99357514800005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Urocze 14 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.037882,50.077933</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Jagiellońskie 9 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02373870100007,50.08874158700007</coordinates></Point>
@@ -1143,10 +1139,6 @@
     <name> chodnik Kazimierza Kordylewskiego 11  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961673001000065,50.061886</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Dąbska 18D  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.984446001000038,50.068467</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Przy Arce 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2216,10 +2208,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.928148001000068,50.067617</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Szklane Domy 1C  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.040659170000026,50.07481641800007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Węgierska 18  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.950910644000032,50.045826058000046</coordinates></Point>
@@ -3211,10 +3199,6 @@
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04593835000003,50.071348767000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik szkoła (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.031707484000037,50.07363951600007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
