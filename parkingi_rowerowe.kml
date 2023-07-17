@@ -976,10 +976,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95151,50.04592</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Zgody 4  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.03364,50.075725</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Albertyńskie 28A  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01698920800004,50.08280221000007</coordinates></Point>
@@ -1199,10 +1195,6 @@
     <name>  Gustawa Ehrenberga 3 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.912333,50.083341</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Zgody 3  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.031617,50.076599</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Starowiślna 17  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2268,10 +2260,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937844,50.056694</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Mogilska 123  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98139400100007,50.069781</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Romana Ingardena 6  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.919428,50.061942</coordinates></Point>
@@ -2959,10 +2947,6 @@
     <name> trawnik Osiedle  Kolorowe 16 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02228341500006,50.07398346200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 18a inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02474285200003,50.073605986000075</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik Osiedle  Kolorowe 20 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
