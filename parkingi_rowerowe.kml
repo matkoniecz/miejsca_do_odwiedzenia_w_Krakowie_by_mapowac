@@ -28,10 +28,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.90108,50.076648</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Tadeusza Ptaszyckiego 6  (x17)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.05860117900005,50.064870718000066</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Rakuś 62A  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.03506898300003,50.010795106000046</coordinates></Point>
@@ -55,10 +51,6 @@
     <name> chodnik Rzeźnicza 18  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956312,50.055606</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Stalowe 5  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.048875332000023,50.07499022500008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Radosna 9  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1688,10 +1680,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92226127600003,50.02998386100006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Urocze 15 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.036815,50.07764</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Lucjana Rydla 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.901159,50.076869</coordinates></Point>
@@ -1835,10 +1823,6 @@
     <name> wyl_z_ruchu Bolesława Komorowskiego 1  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.921131,50.053292</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 13  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.026926,50.073309</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Stanisława Działowskiego 1  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2344,10 +2328,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02429999900005,50.089964</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>   Tadeusza Ptaszyckiego 4A Klub Sportowy Hutnik Kraków ul. T. Ptaszyckiego 4b (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.059460126000033,50.066452079000044</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Królewska 50  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92014799900005,50.071654</coordinates></Point>
@@ -2840,18 +2820,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007758196000054,50.06356548200006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 11 inne (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02581709100002,50.07360780700003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 15 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.025806362000026,50.073377132000076</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 15 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.025771493000036,50.07318777200004</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Osiedle  Kolorowe 16 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02228341500006,50.07398346200006</coordinates></Point>
@@ -2907,10 +2875,6 @@
     <name> chodnik Pawła Włodkowica 8 inne (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.983970491000036,50.074621568000055</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Stalowe 15 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.050492510000026,50.074425473000076</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zatoka inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3079,14 +3043,6 @@
     <name> trawnik inne (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.060320017000038,50.06524786700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.058607565000045,50.066030355000066</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.061046774000033,50.065924230000064</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
