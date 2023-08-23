@@ -1864,10 +1864,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.943670928000074,50.06515791900006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Basztowa 20  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942209940000055,50.06568492800005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Basztowa 17  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940640307000024,50.06617996500006</coordinates></Point>
@@ -3040,14 +3036,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.009796700000038,50.07516891700004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik inne (x14)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.060320017000038,50.06524786700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.06075173100004,50.06551024300006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik szkoła (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.041513477000024,50.06915257900005</coordinates></Point>
@@ -3075,10 +3063,6 @@
     <name> chodnik (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.943379984000046,50.047746655000026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.05666046300007,50.06452545800005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
