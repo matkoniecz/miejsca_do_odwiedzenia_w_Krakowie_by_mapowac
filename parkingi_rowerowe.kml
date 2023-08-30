@@ -484,10 +484,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.966318001000047,50.066681</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Zgody 2  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.03229699900004,50.077301</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Tysiąclecia 57A szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.999010311000063,50.09216157900005</coordinates></Point>
@@ -1472,10 +1468,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.892220535000035,50.00720381200006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Bulwarowa 2 szkoła (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04158105500005,50.08220857400005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Rynek Dębnicki 2  (x12)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927062,50.052</coordinates></Point>
@@ -1507,10 +1499,6 @@
     <name>  Podedworze 2a przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.970483469000044,50.01407027000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.039068,50.073626</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Stefana Kołaczkowskiego 4B  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1567,10 +1555,6 @@
     <name> pow wył z ruchu Wielopole 17  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945106487000032,50.05823684100005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum D 2  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034582999000065,50.073905</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3043,10 +3027,6 @@
     <name> chodnik (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.034360383000035,50.07081426700006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034858298000074,50.07016284000008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
