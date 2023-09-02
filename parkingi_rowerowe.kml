@@ -552,10 +552,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940947,50.040883</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Pędzichów 27  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.939359,50.071801</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Kozia 26  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.99512443900005,50.03293190100004</coordinates></Point>
@@ -724,6 +720,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95780644900003,50.08357674100006</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> zieleniec Wita Stwosza 4  (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9490355,50.070834</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> jezdnia Jana Kasprowicza 17  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96568,50.06826</coordinates></Point>
@@ -731,10 +731,6 @@
     <name> chodnik Osiedle  Centrum D 1  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.036414941000032,50.071927232000064</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Bosacka 20  (x14)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949209,50.068923</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Bosacka 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1500,10 +1496,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.99223383900005,50.04545078600006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Teatralne 25  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.031212,50.079284</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Smoleńsk 35  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926510189000055,50.058327863000045</coordinates></Point>
@@ -1623,10 +1615,6 @@
     <name> chodnik Mogilska 39  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.966621,50.066454</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Urocze 13 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.038295,50.078284</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Podedworze 16 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
