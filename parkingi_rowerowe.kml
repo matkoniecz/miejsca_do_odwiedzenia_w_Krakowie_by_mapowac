@@ -120,10 +120,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.946939,50.054928</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Janusza Meissnera 48  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.982822,50.071512</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Straszewskiego 24  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93222200100007,50.060649</coordinates></Point>
@@ -371,10 +367,6 @@
     <name>  Józefińska 11  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951596,50.04591</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Bulwarowa 39  (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.049019,50.081572</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik Osiedle  Kolorowe 12a (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1872,10 +1864,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929714,50.015313</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja Juliusza Słowackiego 12  (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927035999000054,50.070373</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Wileńska 22  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.955627,50.082132</coordinates></Point>
@@ -2091,10 +2079,6 @@
     <name> jezdnia Józefa Dietla 91  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945883,50.056293</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Mogilska 17  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.962937,50.066197</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Karmelicka 52  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
