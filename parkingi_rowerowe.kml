@@ -84,10 +84,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.975186,50.05755</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Estery 5  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.945064,50.052219</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Dolnych Młynów 3  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927851,50.063847</coordinates></Point>
@@ -472,10 +468,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92500399900007,50.05696</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Mogilska 58  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.966318001000047,50.066681</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Tysiąclecia 57A szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.999010311000063,50.09216157900005</coordinates></Point>
@@ -567,10 +559,6 @@
     <name> chodnik Osiedle  Na Wzgórzach 1  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.06018653500007,50.091616876000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Adama Chmielowskiego 2  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941315076000024,50.04615456800008</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Strzelców 5 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -707,10 +695,6 @@
     <name>  Żywiecka 44  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.917264,50.014681</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zatoka Sandora Petöfiego 26A  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.05013484400007,50.09774889500005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Aleja  Powstania Warszawskiego 10  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -967,10 +951,6 @@
     <name>  Osiedle  Willowe 2 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.048593,50.073307</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Na Wzgórzach 13a szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.05966466800004,50.09745195600004</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Bieżanowska 313  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1516,10 +1496,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.964511001000062,50.057157</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Mieczysława Medweckiego 15  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.015325,50.075379</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu Plac gen. Władysława Sikorskiego 2  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92803800100006,50.061512</coordinates></Point>
@@ -1551,10 +1527,6 @@
     <name>  Kamedulska 70  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.87356473500006,50.04822127700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Handlowe 4 szkoła (x17)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.03115318700003,50.07462542300004</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Na Lotnisku 7  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1984,10 +1956,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942256,50.041729</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Józefa Dietla 39  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941496,50.05136</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Księdza Józefa Tischnera 8  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937908,50.028771</coordinates></Point>
@@ -2039,10 +2007,6 @@
     <name> chodnik Stanisława Worcella 9  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944664034000027,50.06607653000003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Szkolne 4  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.047115001000066,50.075952</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Zakopiańska 119  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2124,10 +2088,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940503,50.073484</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Piastów 26 os. Piastów 24 od strony ul. Popielidów (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.021963,50.099007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Piastów 13 os. Piastów 13 (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01670514400007,50.09699975900003</coordinates></Point>
@@ -2143,10 +2103,6 @@
     <name> chodnik Osiedle  Teatralne 2 os. Teatralne 2-3 (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.030055,50.078873</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Miodowa 24  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.944885095000075,50.05278760700003</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Bohaterów Września 1e os. Bohaterów Września 1e przy ul. Piasta Kołodzieja w Pkt. Mobilności Kleeberga (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2224,14 +2180,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.047894635000034,50.08005496200008</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Na Wzgórzach 31 os. Na Wzgórzach 31 (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.062307564000037,50.09461957100007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Mikołaja Kopernika 36  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95108189700005,50.06291722800006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>   Wrocławska 3 szpital (x30)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933856,50.075646</coordinates></Point>
@@ -2263,10 +2211,6 @@
     <name> zieleniec Osiedle  Piastów 28 os. Piastów 28 od strony ul. Popielidów (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021978,50.099862</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Piastów 21 os. Piastów 21 - 23 (x11)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020282,50.09782</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik Osiedle  Kazimierzowskie 2 os. Kazimierzowskie 2 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2880,10 +2824,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977722291000077,50.01942838900004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04965375000006,50.097837405000064</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.012764541000024,50.10188233900004</coordinates></Point>
@@ -2899,10 +2839,6 @@
     <name> przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.015715428000078,50.100655474000064</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.017966871000056,50.097125265000045</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -3011,14 +2947,6 @@
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04593835000003,50.071348767000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.943379984000046,50.047746655000026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.043067247000067,50.07491807000008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
