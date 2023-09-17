@@ -192,10 +192,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.019950469000037,50.080932647000054</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Promowa 4  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.802684,50.020558</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Plac  Wolnica 14  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.943650999000056,50.048383</coordinates></Point>
@@ -2667,10 +2663,6 @@
     <name> chodnik Grochowska 20 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96228603700007,50.073852585000054</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Dziewiarzy 7 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.806972632000054,50.01795191000008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Królewska 57 inne (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
