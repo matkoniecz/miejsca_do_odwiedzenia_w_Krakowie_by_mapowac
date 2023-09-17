@@ -788,10 +788,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.959408,50.076168</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Osiedle  Górali 15 szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.039406,50.081172</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Lipska 67  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.000578,50.040559</coordinates></Point>
@@ -2687,10 +2683,6 @@
     <name> Różana 25 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.928758591000076,50.050361001000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Skawińska 13 inne (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940913441000077,50.047357315000056</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik płk. Francesco Nullo 15 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
