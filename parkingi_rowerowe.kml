@@ -380,10 +380,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.052838503000032,50.073291690000076</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Szkolne 7  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.046036,50.076604</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Pawia 34  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94502,50.069487</coordinates></Point>
@@ -588,10 +584,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007871710000074,50.06356605000008</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia św. Tomasza 35  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942461,50.062048</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Dworcowa 12  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.972761278000064,50.03389225500007</coordinates></Point>
@@ -639,10 +631,6 @@
     <name> chodnik Bernardyńska 5  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.935966,50.053501</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum D 8  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034954,50.072012</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Marii i Bolesława Wysłouchów 12a szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1024,6 +1012,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.979988999000057,50.075331</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Osiedle  Urocze 1  (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.038075,50.0767724</coordinates></Point>
+  </Placemark>  <Placemark>
     <name>  Osiedle  Na Skarpie 8 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04319582000005,50.07004340300006</coordinates></Point>
@@ -1107,10 +1099,6 @@
     <name> chodnik Rakowicka 6  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951675,50.065693</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Jana Dekerta 24  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967514,50.048074</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Rakowicka 6  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1211,10 +1199,6 @@
     <name>  Feliksa Wrobela 79 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.065657,50.044045</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Złotej Jesieni 16 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.030902138000044,50.08366459000007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Jana Sobieskiego 3  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1776,10 +1760,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.989928159000044,50.02138201400004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Sławkowska 22  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937887425000042,50.064196190000075</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Pomorska 1  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.924983432000033,50.07026214200005</coordinates></Point>
@@ -1959,10 +1939,6 @@
     <name> chodnik Wita Stwosza 12  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.948392994000073,50.072107893000066</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Jana Dekerta 24  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967841,50.04852</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Stanisława Przybyszewskiego 64H  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
