@@ -248,10 +248,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.953066,50.066924</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Łąkowa 31 szkoła (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98476179200003,50.07368432100003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Rakowicka 12  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951977,50.067139</coordinates></Point>
@@ -360,10 +356,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951596,50.04591</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 12a (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.027411,50.073288</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  2 Pułku Lotniczego 47  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.009161,50.074981</coordinates></Point>
@@ -467,10 +459,6 @@
     <name>  Mostowa 1  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945142,50.048314</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kolorowe 17a  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.025026792000062,50.07433360200008</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Feliksa Wrobela 79 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -695,10 +683,6 @@
     <name> jezdnia Jana Kasprowicza 17  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96568,50.06826</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum D 1  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.036414941000032,50.071927232000064</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Bosacka 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1384,10 +1368,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929248724000047,50.06112506000005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum A 6a  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04151493100005,50.072655602000054</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Felicjanek 8  (x12)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929618,50.058076</coordinates></Point>
@@ -2068,10 +2048,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.014067001000058,50.09167782600008</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Teatralne 2 os. Teatralne 2-3 (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.030055,50.078873</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Bohaterów Września 1e os. Bohaterów Września 1e przy ul. Piasta Kołodzieja w Pkt. Mobilności Kleeberga (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.012447,50.095259</coordinates></Point>
@@ -2128,10 +2104,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93677000100007,50.064809</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Teatralne 2  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.030811001000075,50.078626</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>   Osiedle  Szkolne 25  (x9)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04817900100005,50.07835</coordinates></Point>
@@ -2171,10 +2143,6 @@
     <name> chodnik Osiedle  Kazimierzowskie 14 os. Kazimierzowskie 14 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.023495428000047,50.08463312500004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Łąkowa 31 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.984435446000077,50.07369456500004</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Piastów 28 os. Piastów 28 od strony ul. Popielidów (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2556,17 +2524,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.022204097000042,50.084937739000054</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Handlowe 2 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.030144173000053,50.072808733000045</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Łąkowa 27 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.983955687000048,50.07336243000003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Łąkowa 29 inne (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.984447621000072,50.07337445500008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Anieli Krzywoń 30 inne (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2607,10 +2567,6 @@
     <name> Na Wrzosach 57 inne (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.996090860000038,50.02080939900003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Łąkowa 31 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.984615821000034,50.07369488300003</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Seniorów Lotnictwa 5 szkoła (x20)</name>
     <styleUrl>#placemark-yellow</styleUrl>
