@@ -144,6 +144,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998799407000035,50.09209800900004</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Kronikarza Galla 23  (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.913878,50.072473</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> pow wył z ruchu Grzegórzecka 90  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968352,50.058026</coordinates></Point>
@@ -2018,7 +2022,7 @@
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Handlowe 1 os. Handlowe 1 od strony al. Jana Pawła II (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.0307757,50.0722903</coordinates></Point>
+    <Point><coordinates>20.030521,50.072473</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Piastów 24a os. Piastów 25 od strony ul. Popielidów (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
