@@ -960,10 +960,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.979988999000057,50.075331</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Na Skarpie 8 szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04319582000005,50.07004340300006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Kazimierzowskie 28 szkoła (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02189842200005,50.08672790400004</coordinates></Point>
@@ -1171,10 +1167,6 @@
     <name>  Józefińska 3  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95057100100007,50.045975</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Teatralne 4a szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.028926513000044,50.07993269100007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Grochowska 4  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
