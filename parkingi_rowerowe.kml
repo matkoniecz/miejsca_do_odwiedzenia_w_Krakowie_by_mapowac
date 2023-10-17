@@ -476,10 +476,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94035404500005,50.05305735300004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Hutnicze 6 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04511400100006,50.073144</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu ks. Franciszka Blachnickiego 11  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.953597,50.055451</coordinates></Point>
@@ -519,10 +515,6 @@
     <name> chodnik Barska 12  (x15)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.928987,50.05128</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stanisławy Wysockiej 11  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.004698,50.074514</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Na Wzgórzach 1  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1735,10 +1727,6 @@
     <name> chodnik Ks. Władysława Gurgacza 1  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.950532,50.056318</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stanisławy Wysockiej 11  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.00483,50.074509</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia Krupnicza 28  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
