@@ -20,10 +20,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.895331999000064,50.071592</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Ks. Stefana Pawlickiego 2  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918402,50.044729</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Lucjana Rydla 17  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.90108,50.076648</coordinates></Point>
@@ -376,10 +372,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.953862,50.058613</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Smoleńsk 21  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929110519000062,50.05877622300005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Nad Potokiem 9  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998121,50.022431</coordinates></Point>
@@ -616,10 +608,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.920235,50.067153</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Bolesława Prusa 25  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917199,50.056181</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Myślenicka 112 szkoła (x20)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94692278800005,49.99357514800005</coordinates></Point>
@@ -804,10 +792,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.931299,50.060367</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Senatorska 24  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917911,50.053742</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Przy Arce 4 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.025927335000063,50.083046059000026</coordinates></Point>
@@ -839,10 +823,6 @@
     <name>  Widok 23 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98158343500006,50.058944385000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja Zygmunta Krasińskiego 7  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926884001000076,50.056813</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Szwedzka 11  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -955,10 +935,6 @@
     <name>  Tyniecka 122 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.85827683900004,50.02974013100004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ugorek 10c  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.979988999000057,50.075331</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Kazimierzowskie 28 szkoła (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1196,10 +1172,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927193,50.074174</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Senatorska 35 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917327303000036,50.054051549000064</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Na Załęczu 2  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.020869,50.058998</coordinates></Point>
@@ -1347,10 +1319,6 @@
     <name> chodnik Osiedle  Albertyńskie 22a  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.017531999000028,50.083243</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Bolesława Prusa 14  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917862,50.055379</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Podedworze 2a przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1527,6 +1495,10 @@
     <name> chodnik Mogilska 43b  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.966978,50.066443</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> chodnik Legionów Józefa Piłsudskiego 15  (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.947195971000042,50.04378838200006</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Jagiellońskie 8 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1820,10 +1792,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937908,50.028771</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Ułanów 38  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.985317095000028,50.075609299000064</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Wita Stwosza 12  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.948392994000073,50.072107893000066</coordinates></Point>
@@ -1999,10 +1967,6 @@
     <name> chodnik Osiedle  Kazimierzowskie 19 os. Kazimierzowskie 19 (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.022863,50.085507</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik rtm. Zbigniewa Dunin-Wąsowicza 1 al. F. Focha przy skrzyżowaniu z ul. J. Kałuży (x11)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.922861,50.058966</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia św. Marka 5  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2220,10 +2184,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01146457300007,50.08841522200004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> Mlaskotów 2a przedszkole (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.916591023000024,50.05466964800007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Bolesława Prusa 18 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.917378901000063,50.05577617300003</coordinates></Point>
@@ -2271,10 +2231,6 @@
     <name> chodnik Marszałka Józefa Piłsudskiego 22 inne (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.928752721000023,50.05986575700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Bolesława Prusa 15 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91794760500005,50.05538150600006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Senatorska 23 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2500,10 +2456,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91848071000004,50.05261047700003</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Tadeusza Kościuszki 75 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91694396400004,50.053099244000066</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> Barska 23 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92930576200007,50.05073990200003</coordinates></Point>
@@ -2660,10 +2612,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933366378000073,50.030639604000044</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.916663080000035,50.05513843400007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93222949400007,50.05933881900006</coordinates></Point>
@@ -2727,10 +2675,6 @@
     <name> chodnik szkoła (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.041513477000024,50.06915257900005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034360383000035,50.07081426700006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
