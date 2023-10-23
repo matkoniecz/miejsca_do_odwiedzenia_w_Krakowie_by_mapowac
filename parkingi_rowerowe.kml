@@ -556,10 +556,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965536,50.068333</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Aleja Adama Mickiewicza 18  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.923222999000075,50.059205</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Piastów 34a szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.018218492000074,50.09999070900005</coordinates></Point>
@@ -884,10 +880,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.971002096000063,50.019004548000055</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Ułanów 44a  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98437799900006,50.076738</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Wielicka 8  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961851,50.042018</coordinates></Point>
@@ -979,10 +971,6 @@
     <name>  Okólna 16 szkoła (x16)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.981644929000026,50.016035113000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Mała 5  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929671,50.057841</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Gustawa Ehrenberga 3 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1276,10 +1264,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929248724000047,50.06112506000005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Felicjanek 8  (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929618,50.058076</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Strzelców 7C szkoła (x26)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.970146,50.091849</coordinates></Point>
@@ -1387,10 +1371,6 @@
     <name>  Osiedle  Na Lotnisku 7  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.016297999000074,50.086094</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Smoleńsk 17  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.930426999000076,50.059034</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik płk. Francesco Nullo 38  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
