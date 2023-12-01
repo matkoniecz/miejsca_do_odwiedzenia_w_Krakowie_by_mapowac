@@ -320,10 +320,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.918706,50.001257</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja Zygmunta Krasińskiego 25  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924929999000028,50.059103</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Jagiellońskie 19 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02783312100007,50.08485189900006</coordinates></Point>
@@ -383,10 +379,6 @@
     <name> chodnik Grunwaldzka 8  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96535,50.067425</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Mikołajska 21  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.943473999000048,50.061325</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Rakowicka 2  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -459,10 +451,6 @@
     <name> pow wył z ruchu ks. Franciszka Blachnickiego 11  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.953597,50.055451</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Tysiąclecia 37 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.00234170500005,50.09198937100007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> pow wył z ruchu Rakowicka 26d  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -636,10 +624,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956547999000065,50.056091</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Rynek Główny 26  (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.935391495000033,50.061360911000065</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 24  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021682,50.085461</coordinates></Point>
@@ -663,10 +647,6 @@
     <name> wyl_z_ruchu Kluczborska 3 szkoła (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92878,50.087201</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Szkolne 34  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.048897001000057,50.076037</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Żywiecka 24 przedszkole (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1047,10 +1027,6 @@
     <name>  Osiedle  Dywizjonu 303 49 przedszkole (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.009744117000025,50.08227200300007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  2 Pułku Lotniczego 46  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.009605,50.075461</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Monte Cassino 31 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1503,10 +1479,6 @@
     <name>  Aleksandra Fredry 65 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942621815000052,50.02092008000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Teatralne 35  (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034565,50.079714</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Telimeny 7 przedszkole (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2048,17 +2020,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.019474,50.098803</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>   Osiedle  Szkolne 26 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.0485,50.077745</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Osiedle  Jagiellońskie 26  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.024060182000028,50.08848634200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Osiedle  Szkolne 26 &quot;Dom Utopia&quot; Teatru &quot;Łaźnia Nowa&quot; os. Szkolne 26a (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.049035,50.077557</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik Osiedle  Albertyńskie 25 os. Albertyńskie pomiędzy 25-29 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
