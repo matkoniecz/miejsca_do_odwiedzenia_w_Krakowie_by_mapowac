@@ -12,10 +12,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.005949153000074,50.08342745500005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 18  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02381,50.074445</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Stanisława Przybyszewskiego 71  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.895331999000064,50.071592</coordinates></Point>
@@ -87,10 +83,6 @@
     <name>  Armii &quot;Kraków&quot; 76 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.925229999000067,50.00134</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 22  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02163900100004,50.084349</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Jana Zamoyskiego 68  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -175,10 +167,6 @@
     <name>  Stefana Okrzei 17 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92348428400004,50.018705940000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Kazimierzowskie 22  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.021814,50.084191</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Albertyńskie 36 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -720,10 +708,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.016750796000053,50.08603960500005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Krakowiaków 24  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.038105,50.083174</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Celarowska 20  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95704099900007,50.083307</coordinates></Point>
@@ -847,10 +831,6 @@
     <name> chodnik św. Stanisława 2  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.936105,50.050018</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Golikówka 52 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034033633000035,50.045876347000046</coordinates></Point>
   </Placemark>  <Placemark>
     <name> pow wył z ruchu Iwony Borowickiej 6  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1011,10 +991,6 @@
     <name> chodnik Aleja Edwarda Dembowskiego 9  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956019999000034,50.04131</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 37  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020899,50.08465</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Dworcowa 3  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1339,10 +1315,6 @@
     <name> pow wył z ruchu Plac gen. Władysława Sikorskiego 2  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92803800100006,50.061512</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Krakowiaków 16  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.036412,50.083238</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Henryka Kamieńskiego 49A szkoła (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1716,10 +1688,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965979,50.02251</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 28  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.023219,50.07483</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Bieżanowska 105a  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998416001000066,50.02305</coordinates></Point>
@@ -1916,6 +1884,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961967001000062,50.062379</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Długa 67  (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.935764,50.072567</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 8 os. Kazimierzowskie 8 (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.024243999000078,50.084569</coordinates></Point>
@@ -2095,10 +2067,6 @@
     <name> chodnik Jana Zamoyskiego 66  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94256,50.038367</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> płyty ażurowe Osiedle  Na Skarpie 51 os. Na Skarpie 51 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.046208,50.067092</coordinates></Point>
   </Placemark>  <Placemark>
     <name>   Osiedle  Niepodległości 4 przedszkole (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
