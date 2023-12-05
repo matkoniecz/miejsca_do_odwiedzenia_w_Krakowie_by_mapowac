@@ -624,10 +624,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956547999000065,50.056091</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Rynek Główny 26  (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.935391495000033,50.061360911000065</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 24  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021682,50.085461</coordinates></Point>
