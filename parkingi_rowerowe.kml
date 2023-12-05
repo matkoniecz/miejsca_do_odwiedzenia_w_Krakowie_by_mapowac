@@ -624,6 +624,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956547999000065,50.056091</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> jezdnia Rynek Główny 26  (x12)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.935391495000033,50.061360911000065</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 24  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021682,50.085461</coordinates></Point>
@@ -923,10 +927,6 @@
     <name> chodnik Franciszka Wężyka 15a  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01622881700007,50.07286062500003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Rynek Główny 26  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93541359200003,50.06135422700004</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Okólna 16 szkoła (x16)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1627,10 +1627,6 @@
     <name> jezdnia Emaus 19  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.910782999000048,50.055344</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stanisława Przybyszewskiego 83  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.894509,50.068782</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Wadowicka 1  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
