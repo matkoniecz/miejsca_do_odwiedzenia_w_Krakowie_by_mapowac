@@ -616,10 +616,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96568,50.06826</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Bosacka 18  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949788,50.067675</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Rzeźnicza 10  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956547999000065,50.056091</coordinates></Point>
@@ -824,10 +820,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.97064426700007,50.08773827200008</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Lubicz 28  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951936337000063,50.065074019000065</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Meiselsa 20  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944171249000078,50.05134090800004</coordinates></Point>
@@ -991,10 +983,6 @@
     <name>  Osiedle  Piastów 48 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01536888800007,50.10061286400003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rakowicka 69  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.958674,50.076418</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Rusałek 10 szkoła (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1448,10 +1436,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.919404,50.001732</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Lubicz 28  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95186823100005,50.06506819800006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Gustawa Morcinka 7  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.043799001000025,50.106856</coordinates></Point>
@@ -1539,10 +1523,6 @@
     <name> chodnik Grzegórzecka 77  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96531729900005,50.057373032000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zygmunta Augusta 3  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.950496,50.065404</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Łanowa 1b  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1744,6 +1724,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944664034000027,50.06607653000003</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Józefitów 18  (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92340500100005,50.069922</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Zakopiańska 119  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926596999000026,50.011233</coordinates></Point>
@@ -1856,10 +1840,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.024243999000078,50.084569</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Topolowa 2  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95009900100007,50.067341</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Ułanów 33  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98254600100006,50.078999</coordinates></Point>
@@ -1919,10 +1899,6 @@
     <name> jezdnia / chodnik Promienistych 2  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.971134001000053,50.085852</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Bosacka 16  (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949880001000054,50.067108</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 14 os. Kazimierzowskie 14 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2064,10 +2040,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01796360000003,50.09748739300005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Topolowa 6  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.950841999000033,50.067235</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>   Ks. Władysława Gurgacza 1 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.950405001000036,50.056236</coordinates></Point>
@@ -2135,6 +2107,10 @@
     <name> chodnik Marszałka Józefa Piłsudskiego 22 inne (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.928752721000023,50.05986575700007</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> Juliusza Lea 5a inne (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.923297357000024,50.06954011900007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Senatorska 23 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
