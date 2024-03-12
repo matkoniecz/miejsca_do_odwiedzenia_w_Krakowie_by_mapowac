@@ -192,10 +192,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.094148674000053,50.09576605700005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Bosacka 6A  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949203,50.065655</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Oświecenia 30 szkoła (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98945548200004,50.09017937200008</coordinates></Point>
