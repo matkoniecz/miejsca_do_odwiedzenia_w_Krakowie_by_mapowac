@@ -2240,10 +2240,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.918267634000074,50.013377785000046</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> Osiedle  Teatralne 33A inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.032179290000045,50.08173212100007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> Osiedle  Jagiellońskie 30 inne (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02623895200003,50.08800391700004</coordinates></Point>
