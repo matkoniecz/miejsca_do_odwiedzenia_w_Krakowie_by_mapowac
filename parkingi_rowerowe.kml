@@ -704,10 +704,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.990713097000025,50.02418222800003</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Czerwone Maki 64  (x14)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.890511365000066,50.01858873600003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Ks. Władysława Gurgacza 7  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951607,50.056644</coordinates></Point>
