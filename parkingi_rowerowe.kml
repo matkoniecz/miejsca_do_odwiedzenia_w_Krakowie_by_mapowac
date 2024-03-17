@@ -104,10 +104,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.946939,50.054928</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Straszewskiego 24  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93222200100007,50.060649</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefa 20  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944842642000026,50.05066536600003</coordinates></Point>
@@ -235,10 +231,6 @@
     <name> chodnik Kazimierza Wierzyńskiego 5 szkoła (x9)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.847174687000063,50.08451444500008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zacisze 2  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942792974000042,50.06565735400005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Józefa Dietla 44  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1532,10 +1524,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.924983432000033,50.07026214200005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Basztowa 23  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.943670928000074,50.06515791900006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Krakowska 9  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942411633000063,50.050620586000036</coordinates></Point>
@@ -2259,10 +2247,6 @@
     <name> Królewska 47 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91866376200005,50.072287447000065</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Marszałka Józefa Piłsudskiego 17 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92957758700004,50.06019214200006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> rtm. Zbigniewa Dunin-Wąsowicza 6 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
