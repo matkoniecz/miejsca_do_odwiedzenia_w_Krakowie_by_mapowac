@@ -760,10 +760,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937879,50.055441</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Spółdzielcze 6 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02498703200007,50.07729812000008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Henryka Siemiradzkiego 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929976,50.069262</coordinates></Point>
@@ -2055,10 +2051,6 @@
     <name> Aleja  Kijowska 3 szkoła (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.913384096000073,50.06891176800008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Spółdzielcze 5 przedszkole (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.026330693000034,50.07674120000007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Grażyny 4 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
