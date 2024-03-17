@@ -1540,10 +1540,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.943670928000074,50.06515791900006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Basztowa 17  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940640307000024,50.06617996500006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Krakowska 9  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942411633000063,50.050620586000036</coordinates></Point>
