@@ -448,10 +448,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.971771671000056,50.08753262300007</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zatoka Długa 38  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937986,50.069123</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Okólna 6 szkoła (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.982543,50.017743</coordinates></Point>
