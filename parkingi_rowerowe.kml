@@ -312,10 +312,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940856,50.046625</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Stalowe 18 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.052838503000032,50.073291690000076</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Pawia 34  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94502,50.069487</coordinates></Point>
@@ -544,10 +540,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94692278800005,49.99357514800005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Jagiellońskie 9 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02373870100007,50.08874158700007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Dywizjonu 303 12 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.003741336000076,50.083941226000036</coordinates></Point>
@@ -744,10 +736,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965487001000042,50.068307</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik św. Stanisława 2  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.936105,50.050018</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu Iwony Borowickiej 6  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95709099900006,50.066249</coordinates></Point>
@@ -839,10 +827,6 @@
     <name>  Aleja Edwarda Dembowskiego 12 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954908577000026,50.04198315200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Kolorowe 29 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.022803577000047,50.07557444400004</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Seweryna Goszczyńskiego 1  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1151,10 +1135,6 @@
     <name>  dr. Józefa Babińskiego 1 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.892220535000035,50.00720381200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rynek Dębnicki 2  (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927062,50.052</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Jana Kasprowicza 34  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1700,10 +1680,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.930491,50.05219</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Plac św. Marii Magdaleny 2  (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937844,50.056694</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Romana Ingardena 6  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.919428,50.061942</coordinates></Point>
@@ -1915,10 +1891,6 @@
     <name> zieleniec Osiedle  Piastów 16 os. Piastów 16 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.016861,50.098172</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Osiedle  Kolorowe 29 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02279303100005,50.07554562000007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Piastów 14 os. Piastów 14 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -2219,14 +2191,6 @@
     <name> Centralna 53 inne (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007758196000054,50.06356548200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kolorowe 21 przychodnia (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020523617000038,50.07449549200004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kolorowe 29 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.022367064000036,50.07541641700004</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Osiedle  Na Stoku 44 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
