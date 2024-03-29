@@ -1304,10 +1304,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.991892885000027,50.04562420100007</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Młodości 8  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.049499,50.067479</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Miodowa 42  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.948788,50.053828</coordinates></Point>
@@ -1359,10 +1355,6 @@
     <name>  Telimeny 7 przedszkole (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01771539500004,50.01946647200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Młodości 8 (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.050048097000058,50.067544757000064</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Wielicka 26  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
