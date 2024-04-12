@@ -1668,10 +1668,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.022863,50.085507</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia św. Marka 5  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93677000100007,50.064809</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>   Franciszka Bujaka 15 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951621749000026,50.01049649500004</coordinates></Point>
@@ -1751,10 +1747,6 @@
     <name> trawnik Osiedle  Na Lotnisku 18 os. Na Lotnisku 18 (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.016316,50.087121</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia św. Marka 9  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937255,50.064543</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 32 os. Kazimierzowskie 32 (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
