@@ -480,6 +480,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965536,50.068333</coordinates></Point>
   </Placemark>  <Placemark>
+    <name>  Lipska 67  (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.001251,50.040239</coordinates></Point>
+  </Placemark>  <Placemark>
     <name>  Osiedle  Piastów 34a szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.018218492000074,50.09999070900005</coordinates></Point>
