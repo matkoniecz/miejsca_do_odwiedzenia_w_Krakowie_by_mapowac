@@ -500,10 +500,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.979271,50.061203</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Bernardyńska 5  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.935966,50.053501</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Marii i Bolesława Wysłouchów 12a szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954262001000075,50.007036</coordinates></Point>
@@ -679,10 +675,6 @@
     <name> chodnik Podzamcze 2  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937879,50.055441</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Henryka Siemiradzkiego 17  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929976,50.069262</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Widok 23 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1675,10 +1667,6 @@
     <name> jezdnia św. Marka 5  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93677000100007,50.064809</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Osiedle  Szkolne 25  (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04817900100005,50.07835</coordinates></Point>
   </Placemark>  <Placemark>
     <name>   Franciszka Bujaka 15 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
