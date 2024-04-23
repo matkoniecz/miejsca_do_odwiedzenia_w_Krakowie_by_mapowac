@@ -148,10 +148,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.916357,50.069364</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Złotej Jesieni 3a  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.021909468000047,50.09220391800005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Stefana Okrzei 17 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92348428400004,50.018705940000075</coordinates></Point>
@@ -219,14 +215,6 @@
     <name> chodnik Józefa Dietla 44  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94169,50.052188</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Królewska 44  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92013299900003,50.071</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Złotej Jesieni 3a  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.022633144000054,50.09229204500008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Pawia 5  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1095,6 +1083,10 @@
     <name> chodnik Metalowców 4  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.949396,50.057574</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> wyl_z_ruchu Porzeczkowa 3 szkoła (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9446231,50.1020957</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Prądnicka 65  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
