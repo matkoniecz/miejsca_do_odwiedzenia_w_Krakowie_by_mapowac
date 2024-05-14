@@ -124,14 +124,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998799407000035,50.09209800900004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> pow wył z ruchu Grzegórzecka 90  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.968352,50.058026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Grzegórzecka 90  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.968222,50.057994</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Przy Arce 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.028565999000023,50.082594</coordinates></Point>
@@ -631,10 +623,6 @@
     <name> chodnik Kazimierza Kordylewskiego 11  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961675,50.061643</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Grzegórzecka 98  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.969402,50.05828</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Marszałka Józefa Piłsudskiego 27  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1691,10 +1679,6 @@
     <name>   Strąkowa 3a szkoła (x27)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92423623700006,50.02709809700008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Albertyńskie 15 os. Albertyńskie 16 od strony os. Albertyńskiego 15 (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02143,50.083637</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 33 os. Kazimierzowskie 33 (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
