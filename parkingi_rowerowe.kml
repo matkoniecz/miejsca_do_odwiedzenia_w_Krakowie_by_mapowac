@@ -320,10 +320,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.949546001000044,50.044984</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Grunwaldzka 8  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96535,50.067425</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Pilotów 51 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.973486001000026,50.080067</coordinates></Point>
@@ -807,14 +803,6 @@
     <name>  Marii i Bolesława Wysłouchów 34a szkoła (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96028296700007,50.00596156700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rakowicka 6  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951675,50.065693</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rakowicka 6  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951687,50.065652</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Jana Tarnowskiego 6  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
