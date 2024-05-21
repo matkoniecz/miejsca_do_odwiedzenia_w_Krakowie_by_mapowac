@@ -652,10 +652,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937879,50.055441</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Widok 23 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98158343500006,50.058944385000075</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Szwedzka 11  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92235000100004,50.049542</coordinates></Point>
