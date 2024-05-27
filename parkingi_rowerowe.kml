@@ -440,10 +440,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007871710000074,50.06356605000008</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Dworcowa 12  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.972761278000064,50.03389225500007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Szklarska 7  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.972658999000032,50.044894</coordinates></Point>
@@ -471,10 +467,6 @@
     <name>  Józefińska 9  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95137599900005,50.045917</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Pilotów 45  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.972244999000054,50.079492</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Aleja  Pokoju 30 (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -584,10 +576,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.000578,50.040559</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Na Lotnisku 7  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.016750796000053,50.08603960500005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Celarowska 20  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95704099900007,50.083307</coordinates></Point>
@@ -603,6 +591,10 @@
     <name>  Wacława Popławskiego 9  (x9)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.990713097000025,50.02418222800003</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> trawnik Rajska 3  (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92750200100005,50.065028</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Ks. Władysława Gurgacza 7  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -756,10 +748,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954908577000026,50.04198315200006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Seweryna Goszczyńskiego 1  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.983307,50.040068</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Niepodległości 19 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02087649200007,50.079773431000035</coordinates></Point>
@@ -788,17 +776,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96028296700007,50.00596156700004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Jana Tarnowskiego 6  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.960517,50.043409</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Aleja Edwarda Dembowskiego 9  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956019999000034,50.04131</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Dworcowa 3  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.971276425000042,50.03342008300007</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Ludwinowska 6  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1128,10 +1108,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.87356473500006,50.04822127700004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Na Lotnisku 7  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.016297999000074,50.086094</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik płk. Francesco Nullo 38  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.967377,50.065765</coordinates></Point>
@@ -1260,17 +1236,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01771539500004,50.01946647200003</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Wielicka 26  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.963807,50.039866</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu Grzegórzecka 77  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965338275000022,50.05735516400006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Pilotów 61  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.973867,50.081204</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Generała Bohdana Zielińskiego 3  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1295,10 +1263,6 @@
     <name> chodnik Konfederacka 27  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92860081400005,50.04809918500007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Na Lotnisku 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.016369,50.086442</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Bartosza Głowackiego 2 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1700,10 +1664,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951671001000022,50.05046</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Na Lotnisku 18 os. Na Lotnisku 18 (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.016316,50.087121</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 32 os. Kazimierzowskie 32 (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.020858,50.086198</coordinates></Point>
@@ -2048,18 +2008,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007758196000054,50.06356548200006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> Osiedle  Na Stoku 44 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.05434161900007,50.09229964100007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Na Stoku 45 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.054646870000056,50.09256449700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Na Stoku 46 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.054730420000055,50.09291568300006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Powstańców 48 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.982041005000042,50.101466112000026</coordinates></Point>
@@ -2071,10 +2019,6 @@
     <name> Powstańców 48 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98265469200004,50.10155146200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Przewóz 39 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.99205624600006,50.04186187200003</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zatoka inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
