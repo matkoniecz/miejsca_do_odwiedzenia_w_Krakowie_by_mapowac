@@ -1028,10 +1028,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968101999000055,50.068072</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja Zygmunta Krasińskiego 25  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92551,50.059092</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Metalowców 4  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.949396,50.057574</coordinates></Point>
@@ -1043,10 +1039,6 @@
     <name> chodnik Prądnicka 65  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93849,50.086508</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Albertyńskie 22a  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.017531999000028,50.083243</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Podedworze 2a przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1095,10 +1087,6 @@
     <name> pow wył z ruchu Wielopole 17  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945106487000032,50.05823684100005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.014368914000045,50.09117100900005</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Franciszka Bujaka 15 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1352,10 +1340,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.910782999000048,50.055344</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Wadowicka 1  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940003,50.035886</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefa Dietla 99  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.946376001000033,50.057198</coordinates></Point>
@@ -1379,10 +1363,6 @@
     <name> chodnik Bieżanowska 105a  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998416001000066,50.02305</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Marszałka Józefa Piłsudskiego 29  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925217,50.059727</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Stanisława Jachowicza 5 szkoła (x22)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1424,10 +1404,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942256,50.041729</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Księdza Józefa Tischnera 8  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937908,50.028771</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Wita Stwosza 12  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.948392994000073,50.072107893000066</coordinates></Point>
@@ -1439,10 +1415,6 @@
     <name> chodnik Zwierzyniecka 22  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93077800100008,50.05753</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Sandomierska 3  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.930399,50.051762</coordinates></Point>
   </Placemark>  <Placemark>
     <name> wyl_z_ruchu Straszewskiego 2  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1552,10 +1524,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.017586446000053,50.08241558800006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kalinowe 15 os. Kalinowe 15 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.014067001000058,50.09167782600008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Aleja  Pokoju 20 al. Pokoju 20 przy ul. Zwycięstwa (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.975854999000035,50.059901</coordinates></Point>
@@ -1567,10 +1535,6 @@
     <name> chodnik Długa 67  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.935764,50.072567</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 8 os. Kazimierzowskie 8 (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.024243999000078,50.084569</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Ułanów 33  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1963,10 +1927,6 @@
     <name> Seniorów Lotnictwa 5 szkoła (x20)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98581542900007,50.07953149300005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Na Stoku 52 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.055917300000033,50.09261374000005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Zwycięstwa 22 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
