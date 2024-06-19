@@ -48,10 +48,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.955369999000027,50.041414</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> pow wył z ruchu Grzegórzecka 76B  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965101723000032,50.05731466600008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Koletek 1  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940205969000033,50.05247410800007</coordinates></Point>
@@ -307,10 +303,6 @@
     <name>  Lekarska 5 szkoła (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.941516,50.086212</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rynek Podgórski 14  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949546001000044,50.044984</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Pilotów 51 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1068,10 +1060,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.845687,50.083968</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> pow wył z ruchu Grzegórzecka 74  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.964511001000062,50.057157</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu Plac gen. Władysława Sikorskiego 2  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92803800100006,50.061512</coordinates></Point>
@@ -1224,10 +1212,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01771539500004,50.01946647200003</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> pow wył z ruchu Grzegórzecka 77  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965338275000022,50.05735516400006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Generała Bohdana Zielińskiego 3  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.921436,50.045162</coordinates></Point>
@@ -1263,10 +1247,6 @@
     <name>  Stanisława Działowskiego 1  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.872851,49.98886</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grzegórzecka 77  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96531729900005,50.057373032000044</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Łanowa 1b  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1839,10 +1819,6 @@
     <name> Mieczysławy Ćwiklińskiej 17 inne (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02303538800004,50.01570983200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Stradomska 1 inne (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.938890497000045,50.053967603000046</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Przy Rondzie 6 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
