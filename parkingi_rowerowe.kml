@@ -4,10 +4,6 @@
   <name>Missing bicycle parking</name>
   <visibility>1</visibility>
   <Placemark>
-    <name> chodnik św. Gertrudy 1  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941997,50.05937</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Dywizjonu 303 66 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.005949153000074,50.08342745500005</coordinates></Point>
@@ -63,10 +59,6 @@
     <name> jezdnia Grodzka 49  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.938174,50.057394</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ofiar Dąbia 4  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.975186,50.05755</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Dolnych Młynów 3  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -183,10 +175,6 @@
     <name>  Fiołkowa 13 przedszkole (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98080199900005,50.078099</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Westerplatte 18  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.943264,50.060305</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Topolowa 22 szkoła (x20)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -660,10 +648,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95709099900006,50.066249</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Bieżanowska 313  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.034771001000024,50.01846</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Kazimierza Odnowiciela 2 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.97064426700007,50.08773827200008</coordinates></Point>
@@ -872,10 +856,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.959009,50.074187</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik św. Gertrudy 2  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941587,50.059086</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Grunwaldzka 13  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965645,50.068351</coordinates></Point>
@@ -1071,10 +1051,6 @@
     <name> chodnik Podskale 13  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.941057,50.037054</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Wielopole 17  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.945106487000032,50.05823684100005</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Franciszka Bujaka 15 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1332,10 +1308,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92662000100006,50.06384</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Centralna 40a  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01252,50.068755</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Malborska 96  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965979,50.02251</coordinates></Point>
@@ -1396,17 +1368,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93077800100008,50.05753</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Straszewskiego 2  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.934772,50.055407</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefińska 5  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95076800100003,50.045967</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Wielopole 13  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.944795999000064,50.058481</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia Aleja  Powstania Warszawskiego 6  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1983,10 +1947,6 @@
     <name> trawnik (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.909385357000076,50.04598873200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.957835680000073,50.05731609800006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> przedszkole (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
