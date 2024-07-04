@@ -188,6 +188,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.847174687000063,50.08451444500008</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Mogilska 51  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.968166,50.066423</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Józefa Dietla 44  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94169,50.052188</coordinates></Point>
@@ -332,10 +336,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945142,50.048314</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Feliksa Wrobela 79 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.06597929700007,50.04456981700008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Starowiślna 16  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944389,50.057502</coordinates></Point>
@@ -447,10 +447,6 @@
     <name>  Józefińska 9  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95137599900005,50.045917</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  Pokoju 30 (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.979271,50.061203</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Marii i Bolesława Wysłouchów 12a szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -668,10 +664,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961851,50.042018</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Łutnia 1  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.064395837000063,50.04212668300005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Bolesława Limanowskiego 60 szkoła (x17)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.959040388000062,50.04310901500003</coordinates></Point>
@@ -768,10 +760,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.87432971800007,50.01646599400004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Wadowicka 1  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940169,50.036428</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Osiedle  Piastów 48 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01536888800007,50.10061286400003</coordinates></Point>
@@ -807,10 +795,6 @@
     <name> zieleniec Świtezianki 7 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.978612319000035,50.062369610000076</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Feliksa Wrobela 79 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.065657,50.044045</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Kobierzyńska 196 szkoła (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1344,10 +1328,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95611,50.057755</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Centralna 53  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007445001000065,50.063613</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Plac  Na Groblach 12  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933489,50.056864</coordinates></Point>
@@ -1424,6 +1404,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927745306000077,50.063798492000046</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Mogilska 57  (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.968964,50.066424</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> zatoka Nowosądecka 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977737621000074,50.01907105200007</coordinates></Point>
@@ -1476,10 +1460,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961967001000062,50.062379</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Długa 67  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.935764,50.072567</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Ułanów 33  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98254600100006,50.078999</coordinates></Point>
@@ -1491,10 +1471,6 @@
     <name>   św. Wawrzyńca 36a  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951873,50.050557</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  Pokoju 30 al. Pokoju 30 (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.979301,50.061202</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Piastów 24a os. Piastów 25 od strony ul. Popielidów (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1903,10 +1879,6 @@
     <name> jezdnia Topolowa 32 inne (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954557419000025,50.06664352800004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Centralna 53 inne (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007758196000054,50.06356548200006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Powstańców 48 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
