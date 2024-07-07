@@ -80,10 +80,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92072899900006,50.030209</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Aleja Adama Mickiewicza 22  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.923517,50.061488</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Starowiślna 45  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.946939,50.054928</coordinates></Point>
@@ -111,10 +107,6 @@
     <name>  Osiedle  Tysiąclecia 57 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998799407000035,50.09209800900004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Przy Arce 18  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.028565999000023,50.082594</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Za Torem 22  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -708,10 +700,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961673001000065,50.061886</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Przy Arce 17  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02995088800003,50.081672508000054</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Aleja Edwarda Dembowskiego 12 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954908577000026,50.04198315200006</coordinates></Point>
@@ -827,10 +815,6 @@
     <name>  Półkole 11 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98207760400004,50.05995955700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja Adama Mickiewicza 22  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.923444,50.061631</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Józefińska 3  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1260,10 +1244,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92807903100004,50.06337269800008</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Na Lotnisku 21  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.018643826000073,50.08770943300004</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Królowej Jadwigi 20  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.912978001000056,50.053974</coordinates></Point>
@@ -1431,10 +1411,6 @@
     <name> chodnik Zamkowa 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.930491,50.05219</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Romana Ingardena 6  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919428,50.061942</coordinates></Point>
   </Placemark>  <Placemark>
     <name> jezdnia Starowiślna 27  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1983,10 +1959,6 @@
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.931721590000052,50.06208607500008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.029544765000026,50.082223344000056</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
