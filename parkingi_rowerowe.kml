@@ -140,10 +140,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.094148674000053,50.09576605700005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Oświecenia 30 szkoła (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98945548200004,50.09017937200008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefa Narzymskiego 9  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968073,50.073736</coordinates></Point>
@@ -199,10 +195,6 @@
     <name> chodnik Lubicz 34  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95292900100003,50.065289</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Mazowiecka 70 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.922692,50.076088</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Dywizjonu 303 49 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -295,10 +287,6 @@
     <name> trawnik Ułanów 29a  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.983502999000052,50.0792</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Juliana Dunajewskiego 2  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.933727001000022,50.064144</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Krakusa 25  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -519,10 +507,6 @@
     <name> jezdnia Ks. Kazimierza Siemaszki 38 inne (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94005700100007,50.08647</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Arcybiskupa Zygmunta Szczęsnego Felińskiego 35 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967434,50.101517</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Ks. Ignacego Jana Skorupki 8  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -863,10 +847,6 @@
     <name> chodnik Lubicz 34  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.952718,50.065302</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Juliana Fałata 4  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917466,50.056924</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Dywizjonu 303 66 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1251,10 +1231,6 @@
     <name> chodnik Bieżanowska 105a  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998416001000066,50.02305</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stanisława Jachowicza 5 szkoła (x22)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.978177001000063,50.061883</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Lwowska 20  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1875,10 +1851,6 @@
     <name> trawnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.014188071000035,50.09226596500008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01676363000007,50.08783968600005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x16)</name>
     <styleUrl>#placemark-yellow</styleUrl>
