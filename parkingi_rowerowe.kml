@@ -72,10 +72,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94255,50.038462</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Marszałka Józefa Piłsudskiego 38 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926198232000047,50.05947197300003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Kobierzyńska 58  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92072899900006,50.030209</coordinates></Point>
@@ -256,10 +252,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951596,50.04591</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Leona Wyczółkowskiego 1  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.916026482000063,50.05711613500006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> wyl_z_ruchu Hieronima Wietora 7 szkoła (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940856,50.046625</coordinates></Point>
@@ -383,10 +375,6 @@
     <name> chodnik Osiedle  Na Wzgórzach 1  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.06018653500007,50.091616876000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Strzelców 5 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.973622375000048,50.09219432800006</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Ciepłownicza 34 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -592,10 +580,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.020842,50.099843</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Marszałka Józefa Piłsudskiego 7  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.931299,50.060367</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Józefińska 11  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95151,50.04592</coordinates></Point>
@@ -716,10 +700,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.912333,50.083341</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Starowiślna 17  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94395326800003,50.05777693400006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Barska 45 szkoła (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.931042,50.049461</coordinates></Point>
@@ -779,10 +759,6 @@
     <name>  Monte Cassino 31 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91994935100007,50.047359766000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Świtezianki 7 przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.978612319000035,50.062369610000076</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Kobierzyńska 196 szkoła (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -859,10 +835,6 @@
     <name>  Saska 11 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.983332103000066,50.04369363600006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Marchołta 26  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.984365140000023,50.092389300000036</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Spadochroniarzy 1 szkoła (x15)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -947,10 +919,6 @@
     <name> chodnik Plac gen. Władysława Sikorskiego 10  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929248724000047,50.06112506000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Strzelców 7C szkoła (x26)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.970146,50.091849</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Starowiślna 80  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1079,6 +1047,10 @@
     <name> chodnik płk. Francesco Nullo 23 szkoła (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.964846606000037,50.06355582600003</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> chodnik Długa 63  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.935996,50.072029</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Oświecenia 30 szkoła (x15)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1284,10 +1256,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.978177001000063,50.061883</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Starowiślna 15  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.943727999000032,50.05792145700008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Lwowska 20  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.957266503000028,50.04504856300008</coordinates></Point>
@@ -1340,10 +1308,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.934807,50.070659</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Stanisława Worcella 9  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.944664034000027,50.06607653000003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Józefitów 18  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92340500100005,50.069922</coordinates></Point>
@@ -1367,10 +1331,6 @@
     <name> jezdnia Józefa Dietla 91  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945883,50.056293</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Karmelicka 52  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.928148001000068,50.067617</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Węgierska 18  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1551,10 +1511,6 @@
     <name> chodnik Osiedle  Piastów 17A  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.019142,50.099281</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Henryka Sienkiewicza 1 pl. Inwalidów 7 przy ul. H. Sienkiewicza 2 (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92573,50.069865</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik Osiedle  Piastów 18 os. Piastów 19 od strony posesji os. Piastów 22 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1740,14 +1696,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.961710577000076,50.062335319000056</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik płk. Francesco Nullo 6 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967599759000052,50.05947093800006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stefana Bobrowskiego 11 inne (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967234880000035,50.05897168200005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Masarska 7 inne (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.955718929000057,50.054781339000044</coordinates></Point>
@@ -1820,10 +1768,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98581542900007,50.07953149300005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> Zwycięstwa 22 przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.976784579000025,50.06162407700003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> Parkowa 14 przedszkole (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95327591000006,50.04090861700007</coordinates></Point>
@@ -1855,18 +1799,6 @@
     <name> jezdnia Topolowa 32 inne (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954557419000025,50.06664352800004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Powstańców 48 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.982041005000042,50.101466112000026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Powstańców 48 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98348541100006,50.10165729800008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Powstańców 48 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98265469200004,50.10155146200003</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zatoka inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1932,10 +1864,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021675392000077,50.099334750000025</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.989541304000056,50.09063708600007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933366378000073,50.030639604000044</coordinates></Point>
@@ -1987,10 +1915,6 @@
     <name> zatoka szpital (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.001553827000066,50.01199414200005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec przedszkole (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.979111369000066,50.06246140800005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik szkoła (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
