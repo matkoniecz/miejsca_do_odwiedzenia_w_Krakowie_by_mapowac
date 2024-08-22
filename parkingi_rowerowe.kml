@@ -56,10 +56,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.931883,50.058209</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Grodzka 49  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.938174,50.057394</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Dolnych Młynów 3  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.927851,50.063847</coordinates></Point>
@@ -1267,10 +1263,6 @@
     <name> jezdnia Aleja  Powstania Warszawskiego 6  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96069600100003,50.060609</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Krowoderska 59  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.934807,50.070659</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Józefitów 18  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
