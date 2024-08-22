@@ -648,10 +648,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965504149000026,50.06359669200003</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Marszałka Józefa Piłsudskiego 3  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.931816,50.060441</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Tyniecka 122 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.85827683900004,50.02974013100004</coordinates></Point>
@@ -799,10 +795,6 @@
     <name> chodnik Grzegórzecka 49  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956402999000034,50.057611</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Mazowiecka 30a szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927193,50.074174</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Na Załęczu 2  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1079,10 +1071,6 @@
     <name>  Skośna 2 przedszkole (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.897603005000065,50.01406504100004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Wierzbowa 4  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.931073001000073,50.046088</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Doktora Judyma 8  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
