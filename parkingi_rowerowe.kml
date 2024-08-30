@@ -780,10 +780,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965645,50.068351</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Ćwikłowa 1 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.889141865000056,50.03560863600006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Szwedzka 9  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.922282,50.049654</coordinates></Point>
