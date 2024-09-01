@@ -200,10 +200,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.906799999000043,50.055412</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Stolarska 13  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.938839,50.059722</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Sanocka 4 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95251456400007,50.01744585400007</coordinates></Point>
@@ -1539,10 +1535,6 @@
     <name> jezdnia Zwierzyniecka 1 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933020915000043,50.058587457000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Marszałka Józefa Piłsudskiego 22 inne (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.928752721000023,50.05986575700007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Juliusza Lea 5a inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
