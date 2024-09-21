@@ -56,10 +56,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.931883,50.058209</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Dolnych Młynów 3  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927851,50.063847</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Armii &quot;Kraków&quot; 76 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.925229999000067,50.00134</coordinates></Point>
@@ -91,10 +87,6 @@
     <name>  Praska 64 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.907234677000076,50.04481511000006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja płk. Władysława Beliny-Prażmowskiego 9  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959591787000022,50.06856180300008</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Osiedle  Tysiąclecia 57 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -139,10 +131,6 @@
     <name> chodnik Józefa Narzymskiego 9  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968073,50.073736</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 66 szkoła (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.006347855000058,50.08357515500006</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Kolna 19  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -304,10 +292,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.944389,50.057502</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Oświecenia 26 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.989364083000055,50.09046944600004</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Poronińska 7 przedszkole (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.915753508000023,49.98746036300008</coordinates></Point>
@@ -388,10 +372,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98406600100003,50.078928</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Jana Kasprowicza 16  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965536,50.068333</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Lipska 67  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.001251,50.040239</coordinates></Point>
@@ -415,10 +395,6 @@
     <name> chodnik Ks. Kazimierza Siemaszki 31 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940422,50.086742</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Karola Darwina 4  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.059171,50.090583</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Stanisława Konarskiego 1 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -452,10 +428,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95780644900003,50.08357674100006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Jana Kasprowicza 17  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96568,50.06826</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Rzeźnicza 10  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956547999000065,50.056091</coordinates></Point>
@@ -463,10 +435,6 @@
     <name> chodnik Osiedle  Kazimierzowskie 24  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021682,50.085461</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  Pokoju 2  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959254,50.058211</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Wenecja 3  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -487,10 +455,6 @@
     <name> trawnik Hetmana Żółkiewskiego 15 przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.958593566000047,50.05865648200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Dolnych Młynów 3  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927838999000073,50.063804</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Senatorska 17  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -588,10 +552,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93792200100006,50.055119</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> pow wył z ruchu Jana Kasprowicza 16  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965487001000042,50.068307</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu Iwony Borowickiej 6  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95709099900006,50.066249</coordinates></Point>
@@ -652,10 +612,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.82475918700004,50.04415434300006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Kordylewskiego 11  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.961673001000065,50.061886</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Aleja Edwarda Dembowskiego 12 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.954908577000026,50.04198315200006</coordinates></Point>
@@ -675,10 +631,6 @@
     <name>  Barska 45 szkoła (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.931042,50.049461</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Stanisława Jachowicza 5 szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.977233572000046,50.062068640000064</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Marii i Bolesława Wysłouchów 34a szkoła (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -707,10 +659,6 @@
     <name> chodnik Rusałek 10 szkoła (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96239451400004,50.07399752100008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Bohdana Zaleskiego 1  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959786999000073,50.067931</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Tadeusza Kantora 3  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -771,10 +719,6 @@
     <name> chodnik Grochowska 4  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.959009,50.074187</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grunwaldzka 13  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965645,50.068351</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Szwedzka 9  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -892,10 +836,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.892220535000035,50.00720381200006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Jana Kasprowicza 34  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.968101999000055,50.068072</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Metalowców 4  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.949396,50.057574</coordinates></Point>
@@ -992,10 +932,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.936885,50.041069</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Jana Kasprowicza 28e  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967519,50.068119</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Mogilska 39  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.966621,50.066454</coordinates></Point>
@@ -1011,10 +947,6 @@
     <name> chodnik Długa 63  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.935996,50.072029</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Oświecenia 30 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.990444181000043,50.09029219300004</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Wacława Lipińskiego 8 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1196,10 +1128,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007215,50.083001</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Czysta 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92662000100006,50.06384</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Malborska 96  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965979,50.02251</coordinates></Point>
@@ -1288,10 +1216,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933621,50.056271</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Dolnych Młynów 3  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927745306000077,50.063798492000046</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Mogilska 57  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968964,50.066424</coordinates></Point>
@@ -1299,10 +1223,6 @@
     <name> zatoka Nowosądecka 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977737621000074,50.01907105200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Czysta 7  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926616309000053,50.06387889100006</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Kalwaryjska 24  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1335,10 +1255,6 @@
     <name> trawnik Osiedle  Albertyńskie 28A os. Albertyńskie 27 przed klatką I (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.017586446000053,50.08241558800006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  Pokoju 20 al. Pokoju 20 przy ul. Zwycięstwa (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.975854999000035,50.059901</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik, jezdnia, zatoka Sądowa 9  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1635,10 +1551,6 @@
     <name> Mieczysławy Ćwiklińskiej 17 inne (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02303538800004,50.01570983200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Przy Rondzie 6 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.961710577000076,50.062335319000056</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Masarska 7 inne (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
