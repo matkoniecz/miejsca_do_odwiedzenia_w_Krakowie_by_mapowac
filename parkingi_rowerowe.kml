@@ -16,14 +16,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.90108,50.076648</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Rakuś 62A  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.03506898300003,50.010795106000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 49 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.009713262000048,50.08223966200006</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Stefana Kołaczkowskiego 4E  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.87324299900007,49.988782</coordinates></Point>
@@ -31,10 +23,6 @@
     <name> chodnik Ks. Kazimierza Siemaszki 29  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940293,50.086501</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja Adolfa Dygasińskiego 42  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.988777,50.021164</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Rzeźnicza 18  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -180,10 +168,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95292900100003,50.065289</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 49 przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.00973599200006,50.08218354600007</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> wyl_z_ruchu Królowej Jadwigi 63 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.906799999000043,50.055412</coordinates></Point>
@@ -228,10 +212,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940856,50.046625</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Czysta 8  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926074,50.063791</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Grzegórzecka 20  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.953862,50.058613</coordinates></Point>
@@ -259,10 +239,6 @@
     <name>  Kościuszkowców 6  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926144817000022,50.01622890900006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Piastów 40 przychodnia (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.015126,50.09845</coordinates></Point>
   </Placemark>  <Placemark>
     <name> trawnik Ułanów 29a  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -339,10 +315,6 @@
     <name> chodnik Osiedle  Na Wzgórzach 1  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.06018653500007,50.091616876000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Ciepłownicza 34 przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.002558,50.051807</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Strąkowa 3a szkoła (x9)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -652,10 +624,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.87432971800007,50.01646599400004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Piastów 48 przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01536888800007,50.10061286400003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Rusałek 10 szkoła (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96239451400004,50.07399752100008</coordinates></Point>
@@ -671,10 +639,6 @@
     <name>  Osiedle  2 Pułku Lotniczego 21 szkoła (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.008260936000056,50.079029895000076</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 49 przedszkole (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.009744117000025,50.08227200300007</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Monte Cassino 31 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -800,10 +764,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.008043156000042,50.06357742600005</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> jezdnia Józefa Szujskiego 11  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92902,50.06462</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zieleniec Generała Tadeusza Kutrzeby 4  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94126,50.040795</coordinates></Point>
@@ -843,10 +803,6 @@
     <name> wyl_z_ruchu Porzeczkowa 3 szkoła (x20)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.9446231,50.1020957</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Prądnicka 65  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93849,50.086508</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Podedworze 2a przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -959,10 +915,6 @@
     <name>  Smolki 10  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942582999000024,50.041335</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Piastów 10 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01592425000007,50.097246436000034</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Myśliwska 64  (x30)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1248,10 +1200,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.940503,50.073484</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Piastów 13 os. Piastów 13 (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01670514400007,50.09699975900003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Osiedle  Albertyńskie 28A os. Albertyńskie 27 przed klatką I (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.017586446000053,50.08241558800006</coordinates></Point>
@@ -1296,10 +1244,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933856,50.075646</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Praska 51  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.910777,50.046637</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 14 os. Kazimierzowskie 14 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.023495428000047,50.08463312500004</coordinates></Point>
@@ -1311,10 +1255,6 @@
     <name> chodnik Osiedle  Kazimierzowskie 15 os. Kazimierzowskie 20 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02287799900006,50.085102</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Złotej Jesieni 7 os. Jagiellońskie 7 przy przystanku KMK (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02429999900005,50.089964</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Władysława Reymonta 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1387,10 +1327,6 @@
     <name> zieleniec Osiedle  Piastów 16 os. Piastów 16 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.016861,50.098172</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Piastów 14 os. Piastów 14 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01796360000003,50.09748739300005</coordinates></Point>
   </Placemark>  <Placemark>
     <name>   Ks. Władysława Gurgacza 1 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1704,17 +1640,9 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977722291000077,50.01942838900004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.015715428000078,50.100655474000064</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> zieleniec (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.01643553400004,50.09745861700003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.017983727000058,50.09784322500008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
