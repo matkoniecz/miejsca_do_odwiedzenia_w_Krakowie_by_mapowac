@@ -276,10 +276,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95608800100007,50.055549</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Stradomska 10  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94035404500005,50.05305735300004</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> pow wył z ruchu ks. Franciszka Blachnickiego 11  (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.953597,50.055451</coordinates></Point>
@@ -327,10 +323,6 @@
     <name> chodnik Osiedle  Piastów 29  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.020106,50.099564</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Wielkiego 117  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.910883,50.075067</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Centralna 53  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1176,6 +1168,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977737621000074,50.01907105200007</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Bronowicka 42  (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.90001,50.078</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Kalwaryjska 24  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945026,50.042787</coordinates></Point>
@@ -1280,10 +1276,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.970846472000062,50.087730167000075</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Jagiellońskie 36 os. Jagiellońskie 35-36 (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.026341,50.089176</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Starowiślna 99  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951671001000022,50.05046</coordinates></Point>
@@ -1323,10 +1315,6 @@
     <name> chodnik Celarowska 16  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.958014168000034,50.083025322000026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Piastów 16 os. Piastów 16 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.016861,50.098172</coordinates></Point>
   </Placemark>  <Placemark>
     <name>   Ks. Władysława Gurgacza 1 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1640,10 +1628,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977722291000077,50.01942838900004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01643553400004,50.09745861700003</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.021675392000077,50.099334750000025</coordinates></Point>
@@ -1651,6 +1635,10 @@
     <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933366378000073,50.030639604000044</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.916663080000035,50.05513843400007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
