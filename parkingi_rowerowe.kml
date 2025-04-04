@@ -12,10 +12,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.895331999000064,50.071592</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Lucjana Rydla 17  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90108,50.076648</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Stefana Kołaczkowskiego 4E  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.87324299900007,49.988782</coordinates></Point>
@@ -107,10 +103,6 @@
     <name> chodnik Adolfa Nowaczyńskiego 1  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.920867999000052,50.045483</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Na Lotnisku 15 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.015369934000034,50.088196065000034</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Łuczanowicka 2 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -427,10 +419,6 @@
     <name> jezdnia Ks. Kazimierza Siemaszki 38 inne (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94005700100007,50.08647</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ks. Ignacego Jana Skorupki 8  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959408,50.076168</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Lipska 67  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -836,6 +824,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.941057,50.037054</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Topolowa 3  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.949941,50.067254</coordinates></Point>
+  </Placemark>  <Placemark>
     <name>  Franciszka Bujaka 15 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951905079000028,50.010009886000034</coordinates></Point>
@@ -876,6 +868,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.918111,50.055138</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Osiedle  Wandy 4  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.046197001000053,50.071078</coordinates></Point>
+  </Placemark>  <Placemark>
     <name>  Tadeusza Czackiego 11  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.936885,50.041069</coordinates></Point>
@@ -899,10 +895,6 @@
     <name>  Wacława Lipińskiego 8 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92226127600003,50.02998386100006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Lucjana Rydla 17  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.901159,50.076869</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Smolki 10  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1076,6 +1068,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965979,50.02251</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Młodej Polski 8  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.901271,50.073221</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Bieżanowska 105a  (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.998416001000066,50.02305</coordinates></Point>
@@ -1175,10 +1171,6 @@
     <name> chodnik Kalwaryjska 24  (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.945026,50.042787</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Na Lotnisku 17  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.016377001000023,50.087521</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Zamkowa 17  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1643,14 +1635,6 @@
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93222949400007,50.05933881900006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.014188071000035,50.09226596500008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik (x16)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02579808400003,50.08956923300008</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
