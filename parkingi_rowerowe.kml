@@ -312,10 +312,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007925,50.063568</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Piastów 29  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020106,50.099564</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Centralna 53  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007871710000074,50.06356605000008</coordinates></Point>
@@ -880,6 +876,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.966621,50.066454</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> jezdnia Senatorska 21  (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918926001000045,50.05427</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik Podedworze 16 szkoła (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.97397890900004,50.012161579000065</coordinates></Point>
@@ -1208,10 +1208,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951873,50.050557</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Piastów 24a os. Piastów 25 od strony ul. Popielidów (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020661,50.098885</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Osiedle  Kazimierzowskie 19 os. Kazimierzowskie 19 (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.022863,50.085507</coordinates></Point>
@@ -1219,10 +1215,6 @@
     <name>   Franciszka Bujaka 15 szkoła (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.951621749000026,50.01049649500004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Piastów 22 os. Piastów 22 (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.019755,50.098091</coordinates></Point>
   </Placemark>  <Placemark>
     <name>   Osiedle  Szkolne 18 szkoła (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1280,10 +1272,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.969945,50.085439</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Piastów 17A os. Piastów 17 od strony posesji os. Piastów 27 (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.019474,50.098803</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> trawnik Osiedle  Albertyńskie 25 os. Albertyńskie pomiędzy 25-29 (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.018951792000053,50.081507671000054</coordinates></Point>
@@ -1295,14 +1283,6 @@
     <name> trawnik Królewska 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.922358,50.070987</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Piastów 17A  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.019142,50.099281</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Piastów 18 os. Piastów 19 od strony posesji os. Piastów 22 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.019232,50.097898</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Celarowska 16  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
