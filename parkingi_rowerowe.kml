@@ -72,10 +72,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.907234677000076,50.04481511000006</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Osiedle  Tysiąclecia 57 szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.998799407000035,50.09209800900004</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Za Torem 22  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.955281,50.039699</coordinates></Point>
@@ -247,14 +243,6 @@
     <name> jezdnia Kornela Ujejskiego 1 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92500399900007,50.05696</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Tysiąclecia 57A szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.999010311000063,50.09216157900005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Mostowa 1  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.945142,50.048314</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Starowiślna 16  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -639,10 +627,6 @@
     <name> chodnik Jana Zamoyskiego 106  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942312999000023,50.035791</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Na Lotnisku 7  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01585504800005,50.08645760400003</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Augustiańska 20  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1471,10 +1455,6 @@
     <name> Żywiecka 28 inne (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.918267634000074,50.013377785000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Jagiellońskie 30 inne (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02623895200003,50.08800391700004</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Osiedle  Kazimierzowskie 21 inne (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
