@@ -868,6 +868,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.97397890900004,50.012161579000065</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> chodnik Osiedle  Centrum B 7  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.0412535,50.0744245</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> chodnik płk. Francesco Nullo 23 szkoła (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.964846606000037,50.06355582600003</coordinates></Point>
@@ -1087,10 +1091,6 @@
     <name> chodnik Smolki 11  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942256,50.041729</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Wita Stwosza 12  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.948392994000073,50.072107893000066</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Stanisława Przybyszewskiego 64H  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
