@@ -220,10 +220,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.941516,50.086212</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Pilotów 51 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.973486001000026,50.080067</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Kościuszkowców 6  (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.926144817000022,50.01622890900006</coordinates></Point>
@@ -303,10 +299,6 @@
     <name>  Centralna 53  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.007871710000074,50.06356605000008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Szklarska 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.972658999000032,50.044894</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Ułanów 29a  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -471,6 +463,10 @@
     <name> chodnik Podzamcze 2  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.937879,50.055441</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name>  Osiedle  Na Wzgórzach 21  (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.06527993900005,50.09545998300007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Szwedzka 11  (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1275,10 +1271,6 @@
     <name>   Ks. Władysława Gurgacza 1 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.950405001000036,50.056236</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Kazimierzowskie 15 os. Kazimierzowskie 15 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.023596001000044,50.085116</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Osiedle  Piastów 15 os. Piastów 15 (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
