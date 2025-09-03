@@ -1028,10 +1028,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.912978001000056,50.053974</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Stanisława Konarskiego 47  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.921699,50.070898</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Ks. Władysława Gurgacza 1  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.950321,50.056196</coordinates></Point>
@@ -1471,10 +1467,6 @@
     <name> chodnik Królewska 59 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.914846141000055,50.073387712000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Królewska 47 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91866376200005,50.072287447000065</coordinates></Point>
   </Placemark>  <Placemark>
     <name> rtm. Zbigniewa Dunin-Wąsowicza 6 inne (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
