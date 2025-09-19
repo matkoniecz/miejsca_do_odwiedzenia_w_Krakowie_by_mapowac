@@ -292,14 +292,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.923623470000052,50.02664366600004</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Centralna 53F  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007925,50.063568</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Centralna 53  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007871710000074,50.06356605000008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Ułanów 29a  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98406600100003,50.078928</coordinates></Point>
@@ -715,10 +707,6 @@
     <name> chodnik Generała Bohdana Zielińskiego 7  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.919786,50.045324</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Centralna 53  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.008043156000042,50.06357742600005</coordinates></Point>
   </Placemark>  <Placemark>
     <name> zieleniec Generała Tadeusza Kutrzeby 4  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1299,14 +1287,6 @@
     <name> zieleniec Na Szaniec 9 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.97745551400004,50.05912352300004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Na Szaniec 17a inne (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.978390430000047,50.059329880000064</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Na Szaniec 21 inne (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.97902607000003,50.05948326200007</coordinates></Point>
   </Placemark>  <Placemark>
     <name> Jana Brożka 3 inne (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
