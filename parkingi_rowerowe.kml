@@ -40,6 +40,14 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.931883,50.058209</coordinates></Point>
   </Placemark>  <Placemark>
+    <name>  Jabłonkowska 29a przedszkole (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.8866463,50.0798804</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> chodnik Ofiar Dąbia 4  (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.975186,50.05755</coordinates></Point>
+  </Placemark>  <Placemark>
     <name>  Armii &quot;Kraków&quot; 76 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.925229999000067,50.00134</coordinates></Point>
@@ -47,6 +55,10 @@
     <name> chodnik Jana Zamoyskiego 68  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94255,50.038462</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> chodnik Aleja  29 Listopada 7  (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.946484,50.073984</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Kobierzyńska 58  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -71,6 +83,10 @@
     <name>  Praska 64 szkoła (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.907234677000076,50.04481511000006</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> chodnik Wrocławska 11  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.930546,50.075699</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Za Torem 22  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -107,6 +123,10 @@
     <name> chodnik Józefa Narzymskiego 9  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968073,50.073736</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> chodnik Aleja  Kijowska 48  (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918103,50.078383</coordinates></Point>
   </Placemark>  <Placemark>
     <name>  Kolna 19  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -748,6 +768,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.9446231,50.1020957</coordinates></Point>
   </Placemark>  <Placemark>
+    <name>  Jabłonkowska 29a przedszkole (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.8866463,50.0798804</coordinates></Point>
+  </Placemark>  <Placemark>
     <name>  Podedworze 2a przedszkole (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.970483469000044,50.01407027000005</coordinates></Point>
@@ -963,6 +987,10 @@
     <name>  Łanowa 1b  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.98597204200007,50.03490550200007</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> chodnik Wrocławska 11  (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.930664241000045,50.075678983000046</coordinates></Point>
   </Placemark>  <Placemark>
     <name> wyl_z_ruchu Stanisława Pigonia 2 szkoła (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
