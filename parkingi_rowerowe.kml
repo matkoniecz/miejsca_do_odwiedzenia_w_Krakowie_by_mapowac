@@ -512,10 +512,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.971002096000063,50.019004548000055</coordinates></Point>
   </Placemark>  <Placemark>
-    <name>  Wielicka 8  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.961851,50.042018</coordinates></Point>
-  </Placemark>  <Placemark>
     <name>  Bolesława Limanowskiego 60 szkoła (x17)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.959040388000062,50.04310901500003</coordinates></Point>
@@ -1267,10 +1263,6 @@
     <name> trawnik Królewska 18  (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.922358,50.070987</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Celarowska 16  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.958014168000034,50.083025322000026</coordinates></Point>
   </Placemark>  <Placemark>
     <name>   Ks. Władysława Gurgacza 1 przedszkole (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
