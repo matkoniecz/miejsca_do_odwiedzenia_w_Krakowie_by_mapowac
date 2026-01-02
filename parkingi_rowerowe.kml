@@ -148,10 +148,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.924334,50.069699</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Wierzyńskiego 5 szkoła (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.847174687000063,50.08451444500008</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> chodnik Mogilska 51  (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968166,50.066423</coordinates></Point>
@@ -1027,10 +1023,6 @@
     <name> chodnik Zakopiańska 101  (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.929714,50.015313</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Wileńska 22  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.955627,50.082132</coordinates></Point>
   </Placemark>  <Placemark>
     <name> chodnik Ks. Władysława Gurgacza 1  (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
