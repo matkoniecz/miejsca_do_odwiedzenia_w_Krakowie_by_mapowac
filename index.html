@@ -34,8 +34,8 @@
         <script>
           var map = L.map('map').setView([50.0460089405765, 19.97423294383374], 13);
           mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
-          L.tileLayer('http://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: 'data: &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, basemap made by <a href="https://github.com/gravitystorm/openstreetmap-carto/">openstreetmap-carto project</a>',
+          L.tileLayer('https://tile.openstreetmap.de/{z}/{x}/{y}.png ', {
+        attribution: 'data: &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, basemap made by <a href="https://github.com/giggls/openstreetmap-carto-de/">openstreetmap-carto-de project</a> (fork of <a href="https://github.com/gravitystorm/openstreetmap-carto/">openstreetmap-carto</a>)',
         maxZoom: 19
     }).addTo(map);
 L.marker([50.08342745574492, 20.005949152412104]).addTo(map).bindPopup(" (x5)<br>delta: 30m<br>replacement:<br>text = text.replace_position('50.08342745574492', '20.005949152412104', '50.0836056', '20.0062833', '')<br>(<a href=http://www.openstreetmap.org/?mlat=50.0836056&mlon=20.0062833#map=19/50.0836056/20.0062833>osm</a>).");
