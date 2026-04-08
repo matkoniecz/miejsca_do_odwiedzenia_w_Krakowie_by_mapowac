@@ -4,1613 +4,2113 @@
   <name>Missing bicycle parking</name>
   <visibility>1</visibility>
   <Placemark>
-    <name>  Osiedle  Dywizjonu 303 66 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.005949153000074,50.08342745500005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stanisława Przybyszewskiego 71  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.895331999000064,50.071592</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Stefana Kołaczkowskiego 4E  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.87324299900007,49.988782</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ks. Kazimierza Siemaszki 29  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940293,50.086501</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rzeźnicza 18  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.956312,50.055606</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Radosna 9  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.955369999000027,50.041414</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Koletek 1  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940205969000033,50.05247410800007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Lwowska 22 Maly plac zabaw (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.957648489000064,50.044754692000026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zatoka Zwierzyniecka 10  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.931883,50.058209</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Jabłonkowska 29a przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.8866463,50.0798804</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ofiar Dąbia 4  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.975186,50.05755</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Armii &quot;Kraków&quot; 76 szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925229999000067,50.00134</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Jana Zamoyskiego 68  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94255,50.038462</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  29 Listopada 7  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.946484,50.073984</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kobierzyńska 58  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92072899900006,50.030209</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Starowiślna 45  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.946939,50.054928</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefa 20  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.944842642000026,50.05066536600003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Estońska 2 przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96542755300004,50.02032397800008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Jana Zamoyskiego 60  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942591,50.038845</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Praska 64 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.907234677000076,50.04481511000006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Wrocławska 11  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.930546,50.075699</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Za Torem 22  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.955281,50.039699</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Zygmunta Miłkowskiego 18  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91806199900003,50.028923</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Za Targiem 4 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.916357,50.069364</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Stefana Okrzei 17 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92348428400004,50.018705940000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Plac  Wolnica 14  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.943650999000056,50.048383</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Domki 19  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959615,50.074984</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Adolfa Nowaczyńskiego 1  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.920867999000052,50.045483</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Łuczanowicka 2 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.094148674000053,50.09576605700005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefa Narzymskiego 9  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.968073,50.073736</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  Kijowska 48  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918103,50.078383</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kolna 19  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.828675,50.030667</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Podedworze 2a przedszkole (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.970487148000075,50.014098329000035</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Fiołkowa 13 przedszkole (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98080199900005,50.078099</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Topolowa 22 szkoła (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.953066,50.066924</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Plac  Inwalidów 4  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924334,50.069699</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Mogilska 51  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.968166,50.066423</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefa Dietla 44  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94169,50.052188</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Pawia 5  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.945292,50.068255</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Malborska 98 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.964742130000047,50.02265224400003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Berka Joselewicza 28  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.947857,50.055238</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Lubicz 34  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95292900100003,50.065289</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Królowej Jadwigi 63 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.906799999000043,50.055412</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Sanocka 4 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95251456400007,50.01744585400007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Przemyska 5  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951429,50.051993</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kobierzyńska 220  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.89393019000005,50.00779993200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Sanocka 2 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951719,50.017667</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kolna 19  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.828563,50.030895</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Skotnicka 86 szkoła (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.874358973000028,50.01650853700005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Doktora Judyma 10 szkoła (x13)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918706,50.001257</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Józefa Szujskiego 2 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929632962000028,50.06375194600008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Józefińska 11  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951596,50.04591</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Hieronima Wietora 7 szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940856,50.046625</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grzegórzecka 20  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.953862,50.058613</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Nad Potokiem 9  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.998121,50.022431</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Fabryczna 5  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.97048299900007,50.06208</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Obozowa 24A  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.906590770000037,50.012554418000036</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Lekarska 5 szkoła (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941516,50.086212</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kościuszkowców 6  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926144817000022,50.01622890900006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Ułanów 29a  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.983502999000052,50.0792</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krakusa 25  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952332,50.046846</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Tadeusza Czackiego 11  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.936425368000073,50.040984741000045</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Kornela Ujejskiego 1 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92500399900007,50.05696</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Starowiślna 16  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.944389,50.057502</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Poronińska 7 przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.915753508000023,49.98746036300008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rzeźnicza 18  (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95608800100007,50.055549</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu ks. Franciszka Blachnickiego 11  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.953597,50.055451</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Rakowicka 26d  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.955447,50.076663</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kazimierza Odnowiciela 4 przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.971771671000056,50.08753262300007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Okólna 6 szkoła (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.982543,50.017743</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefa Narzymskiego 9  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96793,50.073597</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Generała Tadeusza Kutrzeby 4  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940947,50.040883</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kozia 26  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.99512443900005,50.03293190100004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Barska 12  (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.928987,50.05128</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Na Wzgórzach 1  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.06018653500007,50.091616876000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Strąkowa 3a szkoła (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.923623470000052,50.02664366600004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ułanów 29a  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98406600100003,50.078928</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Lipska 67  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.001251,50.040239</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Piastów 34a szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.018218492000074,50.09999070900005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krupnicza 44  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924151,50.062298</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Józefińska 9  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95137599900005,50.045917</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Marii i Bolesława Wysłouchów 12a szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.954262001000075,50.007036</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ks. Kazimierza Siemaszki 31 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940422,50.086742</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Stanisława Konarskiego 1 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.920235,50.067153</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Myślenicka 112 szkoła (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94692278800005,49.99357514800005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 12 przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.003741336000076,50.083941226000036</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Władysława Syrokomli 21  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925035999000045,50.057042</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Litewska 9  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927018,50.07635</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Żywiecka 44  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917264,50.014681</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja  Powstania Warszawskiego 10  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.961185001000047,50.062113</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Celarowska 16  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95780644900003,50.08357674100006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rzeźnicza 10  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.956547999000065,50.056091</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 24  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.021682,50.085461</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Wenecja 3  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926793,50.060493</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Aleja Ignacego Daszyńskiego 21a  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952953,50.0562</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Kluczborska 3 szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92878,50.087201</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Żywiecka 24 przedszkole (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91896900100005,50.013906</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Hetmana Żółkiewskiego 15 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.958593566000047,50.05865648200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Senatorska 17  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919737793000024,50.054518372000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Ks. Kazimierza Siemaszki 38 inne (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94005700100007,50.08647</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Lipska 67  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.000578,50.040559</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Celarowska 20  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95704099900007,50.083307</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Podgórska 15  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.947073,50.047012</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Władysława Reymonta 42  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90456000100005,50.067121</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Wacława Popławskiego 9  (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.990713097000025,50.02418222800003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Rajska 3  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92750200100005,50.065028</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ks. Władysława Gurgacza 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951607,50.056644</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Aleja płk. Władysława Beliny-Prażmowskiego 17  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959374926000066,50.069486210000036</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Strąkowa 7 przedszkole (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92451982500006,50.026320482000074</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Krzemionki 33 przedszkole (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94765613100003,50.039496031000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kazimierza Kordylewskiego 11  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.961675,50.061643</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Marszałka Józefa Piłsudskiego 27  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927094,50.059791</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Piastów 30  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020842,50.099843</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Józefińska 11  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95151,50.04592</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Albertyńskie 28A  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01698920800004,50.08280221000007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kornela Ujejskiego 12  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.923788001000048,50.056315</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Podzamcze 2  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937879,50.055441</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Na Wzgórzach 21  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.06527993900005,50.09545998300007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Szwedzka 11  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92235000100004,50.049542</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja Ignacego Daszyńskiego 16  (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95218600100003,50.057566</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Na Błonie 15c przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.884883,50.077815</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Podzamcze 1 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93792200100006,50.055119</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Iwony Borowickiej 6  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95709099900006,50.066249</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kazimierza Odnowiciela 2 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.97064426700007,50.08773827200008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Meiselsa 20  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.944171249000078,50.05134090800004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Starowiślna 47  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.947243,50.054646</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Czarnogórska 14 szkoła (x12)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.971002096000063,50.019004548000055</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Bolesława Limanowskiego 60 szkoła (x17)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959040388000062,50.04310901500003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Jaskrowa 5 szkoła (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.122753044000035,50.10044040300005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Na Zjeździe 8  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.955181,50.047887</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Mieczysława Wrony 115 szkoła (x19)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.872758970000064,49.98793612800006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Aleja płk. Władysława Beliny-Prażmowskiego 49a  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959050728000022,50.072092757000064</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik płk. Francesco Nullo 23 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965504149000026,50.06359669200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Tyniecka 122 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.85827683900004,50.02974013100004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Kazimierzowskie 28 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02189842200005,50.08672790400004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Księcia Józefa 337 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.82475918700004,50.04415434300006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Aleja Edwarda Dembowskiego 12 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.954908577000026,50.04198315200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Niepodległości 19 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02087649200007,50.079773431000035</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Okólna 16 szkoła (x16)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.981644929000026,50.016035113000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Gustawa Ehrenberga 3 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.912333,50.083341</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Barska 45 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.931042,50.049461</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Marii i Bolesława Wysłouchów 34a szkoła (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96028296700007,50.00596156700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja Edwarda Dembowskiego 9  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.956019999000034,50.04131</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Ludwinowska 6  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.937265,50.044079</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Myśliwska 64 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.991813,50.04562</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Skotnicka 86  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.87432971800007,50.01646599400004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rusałek 10 szkoła (x14)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96239451400004,50.07399752100008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Tadeusza Kantora 3  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.976244999000073,50.071464</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Wrzesińska 3  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.946746001000065,50.056843</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  2 Pułku Lotniczego 21 szkoła (x14)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.008260936000056,50.079029895000076</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Monte Cassino 31 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91994935100007,50.047359766000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kobierzyńska 196 szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.899458088000074,50.01125343800004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Na Wzgórzach 11 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.060959833000027,50.09568524600007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Czarnogórska 14 szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.971013653000057,50.019106564000026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kotlarska 5a przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95785,50.056171</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Jana Zamoyskiego 106  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942312999000023,50.035791</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Augustiańska 20  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941701,50.049465</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Półkole 11 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98207760400004,50.05995955700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Józefińska 3  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95057100100007,50.045975</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grochowska 4  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.959009,50.074187</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Szwedzka 9  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.922282,50.049654</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grzegórzecka 49  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.956402999000034,50.057611</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Na Załęczu 2  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020869,50.058998</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Władysława Reymonta 22  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.909941,50.066024</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kornela Ujejskiego 3  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924739,50.056888</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Saska 11 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.983332103000066,50.04369363600006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Spadochroniarzy 1 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.983684612000047,50.08040979400005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 66 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007345671000053,50.083226369000045</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Pomorska 10  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925129001000073,50.071175</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Doktora Judyma 10 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91776754600005,50.00099334200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rzeźnicza 2a  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.957262999000022,50.057057</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Krowoderskich Zuchów 28 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924639,50.089943</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Lubicz 34  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952718,50.065302</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 66 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007230466000067,50.08303780800003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Aleja  Kijowska 3 szkoła (x11)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.912891,50.069095</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Bieżanowska 204 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.023185742000067,50.01892989700008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Królewska 57  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91582,50.073254</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Okólna 18 przedszkole (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.982371639000064,50.016027662000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Generała Bohdana Zielińskiego 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919786,50.045324</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Generała Tadeusza Kutrzeby 4  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94126,50.040795</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Aleja  3 Maja 51  (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91007,50.06205</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Podedworze 16 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.97403704000004,50.01239557900004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Piastów 31  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.019892,50.100037</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Plac gen. Władysława Sikorskiego 10  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929248724000047,50.06112506000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Starowiślna 80  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95071500100005,50.051369</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Szczepana Humberta 1 szkoła (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925232,50.061456</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  dr. Józefa Babińskiego 1 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.892220535000035,50.00720381200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Metalowców 4  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949396,50.057574</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Porzeczkowa 3 szkoła (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.9446231,50.1020957</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Jabłonkowska 29a przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.8866463,50.0798804</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Podedworze 2a przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.970483469000044,50.01407027000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Stefana Kołaczkowskiego 4B  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.873102999000025,49.989113</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Myśliwska 64 szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.99223383900005,50.04545078600006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Smoleńsk 35  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926510189000055,50.058327863000045</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Osiedle  Dywizjonu 303 66  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.00731600100005,50.083169</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Józefa Dietla 70 szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.944407,50.055806</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Balicka 289 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.845687,50.083968</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Plac gen. Władysława Sikorskiego 2  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92803800100006,50.061512</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Henryka Kamieńskiego 49A szkoła (x14)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.976916954000046,50.02455247100005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Podskale 13  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941057,50.037054</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Topolowa 3  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949941,50.067254</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Franciszka Bujaka 15 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951905079000028,50.010009886000034</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Kamedulska 70  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.87356473500006,50.04822127700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik płk. Francesco Nullo 38  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967377,50.065765</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Topolowa 52  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95707200100003,50.066099</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Mieczysława Wrony 115  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.873079130000065,49.987967866000076</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Grzegórzecka 80  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.966986,50.057717</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> pow wył z ruchu Czapskich 1  (x13)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929973364000034,50.06107922700005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Tyniecka 138  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.852071142000057,50.028707791000045</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Kotlarska 9  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95903899900003,50.054926</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Bolesława Prusa 11  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918111,50.055138</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Wandy 4  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.046197001000053,50.071078</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Tadeusza Czackiego 11  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.936885,50.041069</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Mogilska 39  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.966621,50.066454</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Senatorska 21  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918926001000045,50.05427</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Podedworze 16 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.97397890900004,50.012161579000065</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Centrum B 7  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.0412535,50.0744245</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik płk. Francesco Nullo 23 szkoła (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.964846606000037,50.06355582600003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Długa 63  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.935996,50.072029</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Wacława Lipińskiego 8 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92226127600003,50.02998386100006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Smolki 10  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942582999000024,50.041335</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Myśliwska 64  (x30)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.991892885000027,50.04562420100007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Miodowa 42  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.948788,50.053828</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Mogilska 43b  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.966978,50.066443</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Legionów Józefa Piłsudskiego 15  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.947195971000042,50.04378838200006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stefana Grota-Roweckiego 1  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925321,50.03064</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krakusa 25  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952418205000072,50.04673857900008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Skośna 2 przedszkole (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.897603005000065,50.01406504100004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Doktora Judyma 8  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919404,50.001732</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Bronowicka 64 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.896299,50.079374</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Zygmunta Miłkowskiego 23  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918414,50.02852</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Michała Stachowicza 18  (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.921970999000052,50.054964</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Aleksandra Fredry 65 szkoła (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942621815000052,50.02092008000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Telimeny 7 przedszkole (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01771539500004,50.01946647200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Generała Bohdana Zielińskiego 3  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.921436,50.045162</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Obozowa 22A  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90625502000006,50.01270737100003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Rzeźnicza 18  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.956085,50.055509</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Władysława Syrokomli 21  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.925085,50.056946</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Stanisława Stojałowskiego 31 (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.953848700000037,50.00711479100005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Konfederacka 27  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92860081400005,50.04809918500007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Bartosza Głowackiego 2 przedszkole (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.906274,50.076177</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Bolesława Komorowskiego 1  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.921131,50.053292</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Stanisława Działowskiego 1  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.872851,49.98886</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Łanowa 1b  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98597204200007,50.03490550200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Wrocławska 11  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.930664241000045,50.075678983000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Stanisława Pigonia 2 szkoła (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93422029000004,50.094109185000036</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Aleja Adolfa Dygasińskiego 25 szkoła (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.989928159000044,50.02138201400004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Bronowicka 37  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90171056300005,50.077347512000074</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>  Pomorska 1  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924983432000033,50.07026214200005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krakowska 9  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942411633000063,50.050620586000036</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krakowska 25  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94278307600007,50.049472596000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Krakowska 30  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94304068400004,50.049499827000034</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Jana Kurczaba 8 szpital (x18)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.00200913300006,50.01255884200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zakopiańska 101  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.929714,50.015313</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ks. Władysława Gurgacza 1  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.950532,50.056318</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Krupnicza 28  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92807903100004,50.06337269800008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Królowej Jadwigi 20  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.912978001000056,50.053974</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ks. Władysława Gurgacza 1  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.950321,50.056196</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Emaus 19  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.910782999000048,50.055344</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefa Dietla 99  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.946376001000033,50.057198</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Dywizjonu 303 66 szkoła (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007215,50.083001</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Malborska 96  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.965979,50.02251</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Młodej Polski 8  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.901271,50.073221</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Bieżanowska 105a  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.998416001000066,50.02305</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Lwowska 20  (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.957266503000028,50.04504856300008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zakopiańska 117J  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.927254,50.011993</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefa Dietla 76  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94507,50.056474</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefa Dietla 105  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.946671,50.057565</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grzegórzecka 47  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95611,50.057755</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Plac  Na Groblach 12  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.933489,50.056864</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Smolki 11  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942256,50.041729</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stanisława Przybyszewskiego 64H  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.894810001000053,50.06944</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zwierzyniecka 22  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93077800100008,50.05753</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefińska 5  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95076800100003,50.045967</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Aleja  Powstania Warszawskiego 6  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96069600100003,50.060609</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Józefitów 18  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92340500100005,50.069922</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zakopiańska 119  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926596999000026,50.011233</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Stanisława Przybyszewskiego 64  (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.89482,50.069489</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Mogilska 43b  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.967181,50.066448</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Karola Chodkiewicza 3  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.954717,50.058138</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Józefa Dietla 91  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.945883,50.056293</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Węgierska 18  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.950910644000032,50.045826058000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Plac  Na Groblach 16  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.933621,50.056271</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Mogilska 57  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.968964,50.066424</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zatoka Nowosądecka 17  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.977737621000074,50.01907105200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Bronowicka 42  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90001,50.078</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Kalwaryjska 24  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.945026,50.042787</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zamkowa 17  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.930504,50.052118</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Zamkowa 18  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.930491,50.05219</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Starowiślna 27  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.945104,50.056671</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Montelupich 6 al. J. Słowackiego przed ul. Montelupich 4 (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.940503,50.073484</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Albertyńskie 28A os. Albertyńskie 27 przed klatką I (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.017586446000053,50.08241558800006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik, jezdnia, zatoka Sądowa 9  (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.961967001000062,50.062379</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Ułanów 33  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98254600100006,50.078999</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Hetmana Żółkiewskiego 5  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.957818,50.057837</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   św. Wawrzyńca 36a  (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951873,50.050557</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 19 os. Kazimierzowskie 19 (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.022863,50.085507</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Franciszka Bujaka 15 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951621749000026,50.01049649500004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Osiedle  Szkolne 18 szkoła (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.047894635000034,50.08005496200008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Wrocławska 3 szpital (x30)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.933856,50.075646</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 14 os. Kazimierzowskie 14 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.023495428000047,50.08463312500004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Piastów 28 os. Piastów 28 od strony ul. Popielidów (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.021978,50.099862</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 15 os. Kazimierzowskie 20 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02287799900006,50.085102</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Władysława Reymonta 18  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.913779,50.065187</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Strąkowa 3a szkoła (x27)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92423623700006,50.02709809700008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 33 os. Kazimierzowskie 33 (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020729001000063,50.085836</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Nadwiślańska 1  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.949336,50.046285</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik ks. Franciszka Blachnickiego 10  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952541,50.05582</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Kazimierza Odnowiciela 2 szkoła (x16)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.970846472000062,50.087730167000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Starowiślna 99  (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.951671001000022,50.05046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Osiedle  Kazimierzowskie 32 os. Kazimierzowskie 32 (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.020858,50.086198</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Promienistych 1  (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.969945,50.085439</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Osiedle  Albertyńskie 25 os. Albertyńskie pomiędzy 25-29 (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.018951792000053,50.081507671000054</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Jana Zamoyskiego 66  (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94256,50.038367</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Królewska 18  (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.922358,50.070987</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Ks. Władysława Gurgacza 1 przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.950405001000036,50.056236</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Osiedle  Piastów 15 os. Piastów 15 (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.016685708000068,50.09784575600003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name>   Skwerowa 3 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.923767019000024,50.05075337300008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle Józefa Strusia 8 przedszkole (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01146457300007,50.08841522200004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Bolesława Prusa 18 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917378901000063,50.05577617300003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Aleja  Kijowska 3 szkoła (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.913384096000073,50.06891176800008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grażyny 4 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94877952300004,50.08888267300006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Tadeusza Kantora 2 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.975034306000055,50.07153493200008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec Na Szaniec 9 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.97745551400004,50.05912352300004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Jana Brożka 3 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.932635598000047,50.03064900100003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Straszewskiego 12 inne (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93409986200004,50.05672842200005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Zwierzyniecka 1 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.933020915000043,50.058587457000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Juliusza Lea 5a inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.923297357000024,50.06954011900007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Senatorska 23 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918796204000046,50.054250712000055</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Senatorska 15 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919730695000055,50.05469697900003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Tyniecka 29 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90899915500006,50.04992811300008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Ignacego Krasickiego 19 inne (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.939966446000028,50.04076843100006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Ignacego Krasickiego 17 inne (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94037471100006,50.04121825400006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Generała Tadeusza Kutrzeby 3 inne (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.941371831000026,50.04149018900006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Jana Zamoyskiego 22 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94668488600007,50.04257836000005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> prof. Władysława Konopczyńskiego 17 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.89610361000007,50.01853269500003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Żywiecka 44 inne (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917550118000065,50.01463508900008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 32 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917808724000054,50.01423511300004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 34 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918110246000026,50.014160074000074</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 24 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918606753000063,50.01420471800003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 24 inne (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919072348000043,50.01430913400003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 20 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918887789000053,50.01478091400003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Kępna 6 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91813251700006,50.01376798500007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Kępna 19 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.916843267000047,50.013482830000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Kępna 13 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.917546120000054,50.01334159000004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 28 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91880224700003,50.013701182000034</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 26 inne (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919203725000045,50.013799634000065</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 26 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919378739000024,50.01384143100006</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 26 inne (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.919585939000058,50.01389400100004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> wyl_z_ruchu Eliasza Radzikowskiego 39 inne (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90204999200006,50.08352654600003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Na Stoku 1 inne (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.05630601000007,50.09417255100004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Mieczysławy Ćwiklińskiej 17 inne (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02303538800004,50.01570983200003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Masarska 7 inne (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.955718929000057,50.054781339000044</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Podgórska 25A inne (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952065144000073,50.049847148000026</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja gen. Jana Skrzyneckiego 7 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.934883601000024,50.03453762000004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Aleja gen. Jana Skrzyneckiego 17 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.934999353000023,50.03401589200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 30 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918373260000067,50.013734086000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Żywiecka 28 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918267634000074,50.013377785000046</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Osiedle  Kazimierzowskie 21 inne (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.022204097000042,50.084937739000054</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Anieli Krzywoń 30 inne (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.975774949000026,50.076780701000075</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik Celarowska 18 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95741791100005,50.08334005700004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grażyny 1 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.948039467000058,50.08824801600008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Królewska 69 inne (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91115525400005,50.07430339800004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Królewska 59 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.914846141000055,50.073387712000056</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> rtm. Zbigniewa Dunin-Wąsowicza 6 inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.924703889000057,50.05801315800005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Spadochroniarzy 1 inne (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.984668657000043,50.08066809800005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Na Wrzosach 57 inne (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.996090860000038,50.02080939900003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Seniorów Lotnictwa 5 szkoła (x20)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98581542900007,50.07953149300005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Parkowa 14 przedszkole (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.95327591000006,50.04090861700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Krzemionki 33 przedszkole (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94786286300007,50.03957492100005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Grochowska 20 szkoła (x10)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.96228603700007,50.073852585000054</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Królewska 57 inne (x8)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.915643260000024,50.07322604700005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> Królewska 13 inne (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92300391200007,50.07129808800005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> chodnik Tadeusza Kościuszki 57 inne (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91848071000004,50.05261047700003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik płk. Francesco Nullo 15 inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.966567345000044,50.06132061900007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> jezdnia Topolowa 32 inne (x14)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.954557419000025,50.06664352800004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zatoka inne (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.983117768000056,50.04544671800005</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.85801251600003,50.02961781700003</coordinates></Point>
+    <Point><coordinates>20.005949152412104,50.08342745574492</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x1)</name>
+    <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.872933216000035,49.98913139300004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.952825817000075,50.01727801700008</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> szkoła (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.942518128000074,50.02118692300007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zieleniec (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.90822127900003,50.04547946800005</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> trawnik (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.909385357000076,50.04598873200007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> przedszkole (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.01750975400006,50.019466012000066</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> inne (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.982293732000073,50.01794612600003</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.982644222000033,50.01585498700007</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> przedszkole (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98250405400006,50.015971473000036</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> zatoka (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.977722291000077,50.01942838900004</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.021675392000077,50.099334750000025</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.933366378000073,50.030639604000044</coordinates></Point>
+    <Point><coordinates>19.895331999468564,50.07159200072882</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.916663080000035,50.05513843400007</coordinates></Point>
+    <Point><coordinates>19.873242999339457,49.98878200055405</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik (x2)</name>
+    <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93222949400007,50.05933881900006</coordinates></Point>
+    <Point><coordinates>19.940292999967507,50.08650100082492</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik (x2)</name>
+    <name> (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.931721590000052,50.06208607500008</coordinates></Point>
+    <Point><coordinates>19.956311999525443,50.05560600123476</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik (x1)</name>
+    <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91980896700005,50.05276051700008</coordinates></Point>
+    <Point><coordinates>19.95536999943576,50.04141400072354</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik (x3)</name>
+    <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.91945166100004,50.052595749000034</coordinates></Point>
+    <Point><coordinates>19.940205968765056,50.05247410906814</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik szpital (x25)</name>
+    <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.99928602700004,50.01224754800006</coordinates></Point>
+    <Point><coordinates>19.95764848811156,50.0447546928525</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik szpital (x10)</name>
+    <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.000019571000053,50.01091082800008</coordinates></Point>
+    <Point><coordinates>19.931883000356006,50.05820900124962</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik szpital (x10)</name>
+    <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.99989752600004,50.010755697000036</coordinates></Point>
+    <Point><coordinates>19.8866463,50.0798804</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zatoka szpital (x5)</name>
+    <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.00175500200004,50.01230267400007</coordinates></Point>
+    <Point><coordinates>19.975186000005564,50.05755000137445</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> zatoka szpital (x2)</name>
+    <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.001553827000066,50.01199414200005</coordinates></Point>
+    <Point><coordinates>19.925229999361175,50.001340001023955</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> chodnik szkoła (x7)</name>
+    <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.041513477000024,50.06915257900005</coordinates></Point>
+    <Point><coordinates>19.942550000291302,50.038462001027895</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> trawnik szkoła (x9)</name>
+    <name> (x1)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.983483354000043,50.07398250800003</coordinates></Point>
+    <Point><coordinates>19.946483999616678,50.07398400049594</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.920728999407306,50.03020900104479</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94693900029441,50.05492800060239</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.917070000253833,50.052758000877866</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.944842642116097,50.05066536707838</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.965427552649743,50.0203239796726</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.942591000485923,50.03884500079763</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.907234676291317,50.044815111475764</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.930546000148446,50.07569900106413</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.955281000322387,50.03969900053187</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91806199945882,50.028923000768735</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.916356999859055,50.06936400091264</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92348428442542,50.01870594018391</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918809999708696,50.07060900116351</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.943650999412103,50.04838300062618</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.959615000084042,50.07498400082891</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.920867999450405,50.04548300122695</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.09414867412421,50.095766057879395</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.968072999702038,50.0737360011057</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.82867499975853,50.03066700052541</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.970487148301963,50.01409833055585</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.98080199940206,50.07809900072634</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.953065999840113,50.0669240005214</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92433400018269,50.06969900105383</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96816599951724,50.06642300067825</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9416900001045,50.05218800105635</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.945291999922155,50.06825500127655</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96474212902826,50.02265224539378</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9478569997906,50.05523800133394</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9529290005838,50.065289000958636</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.906799999380276,50.055412001244726</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95251456342359,50.0174458549362</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95142899971443,50.051993001123805</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.893930189380484,50.007799932465424</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.951718999868884,50.01766700119735</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.828563000020846,50.030895001176184</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.87435897235345,50.016508538584745</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x13)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918706000186702,50.00125700091329</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92963296126831,50.06375194718457</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.951596000103308,50.045910001015</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.940856000352696,50.04662500083377</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.953861999593418,50.058613000556115</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.998120999579406,50.02243100061924</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.970482999391855,50.062080000592566</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.90659077002217,50.01255441932691</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94151599975786,50.08621200085896</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.926144817351013,50.016228909650906</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.983502999475743,50.079200000635055</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.952331999680737,50.04684600103622</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.936425368212745,50.040984742196194</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.925003999456326,50.056960001372005</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.944389000170197,50.05750200061475</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91575350885769,49.98746036344283</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.956088000647025,50.0555490012114</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.953597000263713,50.055451001235944</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.955446999510336,50.07666300134961</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.971771671553643,50.08753262353046</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.982542999697014,50.01774300092112</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.967929999679438,50.07359700118712</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.940947000312768,50.04088300096454</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.99512443843694,50.03293190246035</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.928986999816757,50.05128000080773</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.060186534786194,50.09161687692705</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92362346994911,50.02664366704317</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.984066000603395,50.07892800079853</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.001251000439247,50.040239000694214</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.01821849225966,50.0999907098156</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.924151000250763,50.06229800125911</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95137599931636,50.04591700116199</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9542620005741,50.00703600090761</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.940421999954648,50.0867420010441</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.920234999649843,50.06715300080906</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.946922787004283,49.993575149178724</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.003741335950696,50.083941226824415</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.925035999408852,50.05704200112212</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.927018000109452,50.07635000094362</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9172640000541,50.014681000969745</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96118500051661,50.06211300104969</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95780644931302,50.08357674241343</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95654799939693,50.05609100120849</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.021681999739364,50.0854610008796</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92679300038255,50.06049300093523</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95295300037217,50.05620000050999</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92878000020118,50.08720100107749</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91896900068358,50.013906000971495</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.958593565889167,50.058656483463416</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91973779195993,50.054518373493345</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94005700050798,50.086470001302104</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.000578000135018,50.040559001266324</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95704099933947,50.083307000522375</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.947073000043925,50.047012000952186</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9045600006905,50.06712100103963</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.990713096364562,50.02418222889088</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92750200054596,50.06502800066927</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95160700017923,50.056644000583994</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95937492620687,50.06948621086327</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.924519824798054,50.026320482782666</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.947656131365285,50.03949603172337</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.961675000220847,50.061643001300034</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9270940000342,50.059791001025275</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.020842000424462,50.09984300088031</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95151000015932,50.04592000111768</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92378800064842,50.056315001319</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9378789996602,50.055441001082784</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.06527993833928,50.095459983653456</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92235000063029,50.049542000748154</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95218600069916,50.05756600050728</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.88488300014752,50.07781500105345</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93792200054244,50.05511900049603</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95709099944161,50.06624900109239</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.970644266367387,50.0877382734081</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94417124883521,50.05134090957176</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94724300039335,50.0546460012987</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x12)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.971002097014832,50.01900454919499</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x17)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.959040387383858,50.0431090157751</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.122753043223415,50.10044040346841</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.955181000405897,50.047887001232695</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x19)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.872758969422033,49.98793612885246</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.959050727992082,50.0720927583474</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.965504149075286,50.063596692115176</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.858276839893062,50.029740132372346</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.02189842225975,50.08672790519932</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.824759187667482,50.0441543445835</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.954908576725867,50.04198315246456</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.020876492156116,50.07977343195889</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x16)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.981644928517717,50.01603511318911</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.912332999626635,50.08334100130673</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.931042000132607,50.049461000815064</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96028296723811,50.005961568048114</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.956019999426346,50.04131000068884</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.937265000238003,50.04407900126012</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.991813000150636,50.04562000102197</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.87432971800727,50.01646599509553</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x14)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.962394514028542,50.07399752227869</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.976244999333513,50.071464001151384</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.946746000529462,50.05684300049145</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x14)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.008260936497514,50.0790298964971</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91994935113392,50.04735976638362</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.89945808819133,50.01125343812493</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.060959833000464,50.095685246579755</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.97101365364732,50.01910656435712</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.957850000315194,50.056171000931236</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.942312999401825,50.035791000647535</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94170099986647,50.0494650013711</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.982077603756366,50.059959557590055</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95057100059763,50.04597500107624</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95900900032547,50.074187000528276</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.922281999741323,50.049654001235766</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95640299935139,50.05761100100384</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.02086899994021,50.05899800116282</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.909940999801865,50.06602400075003</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.924738999509152,50.0568880013326</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.98333210294406,50.04369363673127</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.983684611672626,50.08040979478752</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.00734567042829,50.08322636972658</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.925129000519274,50.071175000854396</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91776754635027,50.00099334242365</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.957262999396757,50.05705700051428</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92463900028465,50.089943001264345</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.952717999689035,50.0653020013328</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.007230465691393,50.08303780897363</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x11)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.912890999981354,50.06909500055083</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.023185741885392,50.018929897448224</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91582000011973,50.073254000521494</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.982371638824702,50.01602766265998</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.919785999835597,50.04532400070126</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.941260000271015,50.04079500104756</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.974037040343177,50.01239558064144</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.01989199961975,50.10003700052997</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.929248724043408,50.061125060834414</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.950715000623195,50.051369001135924</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.925231999734915,50.0614560005636</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.89222053523173,50.007203813441684</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.949396000173422,50.057574000555206</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9446231,50.1020957</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.8866463,50.0798804</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.970483469782582,50.01407026999602</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.873102999449458,49.98911300125641</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.992233839058095,50.045450787161215</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.926510188821055,50.058327864303564</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.007316000625455,50.08316900086277</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94440700013235,50.05580600095656</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.845687000452486,50.08396800058742</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.928038000532496,50.0615120005955</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x14)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.97691695392109,50.02455247180349</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.941057000164346,50.03705400054124</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.949941000474684,50.06725400095948</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.951905078213844,50.010009886936</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.87356473409397,50.04822127799608</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96737700047032,50.06576500136798</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95707200052126,50.06609900106565</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.873079129383623,49.98796786629348</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.966985999672026,50.0577170012543</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x13)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.929973363565637,50.06107922791192</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.852071141283336,50.028707792531826</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.959038999427275,50.05492600063386</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918110999896605,50.0551380012401</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.046197000594375,50.07107800118823</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.936885000040537,50.04106900094157</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.966620999558153,50.066454001195986</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918926000664783,50.05427000058462</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.973978908639044,50.01216157940663</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.0412535,50.0744245</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.964846606415527,50.063555826631806</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93599600009384,50.072029001153</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92226127548087,50.0299838617081</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.942582999314702,50.04133500106637</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x30)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.991892885122983,50.04562420246569</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.948787999680984,50.05382800059535</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.966977999910537,50.06644300060161</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94719597178094,50.043788382563676</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.925320999824677,50.03064000049942</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.952418204647582,50.046738580134985</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.897603004245237,50.014065041824956</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91940400037814,50.00173200106024</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.896299000162315,50.07937400134247</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918414000200556,50.0285200011612</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.921970999419944,50.05496400114386</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.942621814640667,50.02092008042608</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.017715394563606,50.01946647347053</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.921436000251198,50.04516200124211</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.906255019112923,50.01270737191237</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.956085000178977,50.0555090006041</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.925084999899727,50.056946001289916</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.953848699204787,50.00711479191961</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.928600813409833,50.0480991864454</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.906274000351225,50.07617700064941</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.921130999763346,50.05329200099445</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.872851000001173,49.988860000612526</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.985972041667498,50.03490550278842</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.930664241406017,50.07567898419805</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93422028981236,50.09410918604746</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.989928158262238,50.02138201532429</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.90171056292317,50.077347513123215</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.924983432370485,50.07026214292228</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9424116331794,50.050620586483646</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.942783075760808,50.049472596646616</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94304068367662,50.04949982741316</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x18)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.002009132382156,50.01255884281474</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.929714000398995,50.015313000881505</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.950531999877395,50.05631800111138</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92807903062593,50.06337269835783</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91297800056175,50.05397400089293</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.950321000183102,50.056196001315676</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.910782999318606,50.05534400116648</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9463760005488,50.05719800049889</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.007215000118546,50.08300100137791</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.965979000206826,50.02251000048155</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.901271000208503,50.07322100095215</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.99841600070093,50.023050000561184</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.957266502685155,50.0450485636162</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.927254000177605,50.011993001006964</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.945069999733857,50.05647400104799</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.946670999565008,50.05756500114921</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95611000047969,50.05775500107422</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93348900043532,50.05686400089795</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.942256000105402,50.041729000957</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.89481000058056,50.069440000751804</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93077800055032,50.05753000049567</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.950768000611163,50.04596700057898</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96069600065304,50.06060900136084</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92340500066959,50.06992200093799</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9265969993302,50.011233001209284</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.894819999689457,50.06948900071635</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96718099955816,50.06644800079385</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.954716999599455,50.058138001234425</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94588300031046,50.056293000546674</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.950910643344336,50.045826058779575</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.933620999658707,50.05627100090583</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96896400002487,50.06642400111921</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.977737621779326,50.01907105306275</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.90001000027473,50.07800000051608</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.945026000489303,50.042787001111265</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93050399961017,50.05211800132843</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.930491000052058,50.05219000107699</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94510400046449,50.05667100073566</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.940503000245055,50.07348400069644</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.0175864468876,50.08241558862673</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.961967000564538,50.062379000953456</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.982546000517328,50.07899900096904</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95781800009079,50.05783700103562</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.951872999956805,50.05055700059107</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.022863000373505,50.085507000740826</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95162174831912,50.010496495914374</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.047894635136256,50.080054963535666</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x30)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93385599965118,50.075646001331116</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.023495428837958,50.08463312601587</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.02197800030347,50.099862000800506</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.022877999412252,50.08510200127634</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.913779000176902,50.065187000606905</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x27)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.924236237219034,50.02709809835935</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.020729000512038,50.08583600079649</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.949336000451108,50.04628500052158</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95254100029693,50.05582000063616</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x16)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.970846472839522,50.08773016861542</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.951671000650645,50.050460001134326</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.020858000376702,50.08619800107742</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96994499963312,50.08543900070602</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.01895179258293,50.08150767193769</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94255999985991,50.038367001373445</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.950405000626038,50.056236000916776</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.016685708431922,50.097845756837216</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.923767019200927,50.050753373380594</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.011464573006137,50.08841522266637</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91737890162019,50.055776173922396</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91338409640994,50.06891176918628</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94862951261436,50.088870264816435</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.975034306031763,50.071534933531986</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.977455513743283,50.059123523550234</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93263559800074,50.03064900272801</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.934099861741675,50.0567284224935</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93302091507306,50.058587457525086</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.923297357971535,50.06954011949396</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91879620433318,50.05425071261536</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.919730695322738,50.054696980692015</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.90899915430543,50.04992811405573</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.939966445534328,50.04076843173662</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.940374711199716,50.041218254384255</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.941371831378817,50.04149019039959</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.946684886239826,50.04257836170781</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.89610361073016,50.01853269531093</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.917550118562783,50.014635089915444</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91780872354372,50.014235114323746</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91811024591236,50.014160074942666</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918606753468076,50.01420471866238</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.919072347983867,50.014309134853356</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91888778846126,50.01478091525677</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91813251784885,50.01376798585254</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.916843266524612,50.013482831396864</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.917546119036068,50.01334159055771</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918802246834463,50.01370118309859</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.919203724004802,50.01379963524637</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.919378738017297,50.01384143169827</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.919585939724865,50.01389400168459</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.902049992481473,50.08352654652</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.056306009790315,50.094172551601034</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.023035388448786,50.01570983262109</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.955718929202394,50.05478133951975</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95206514364935,50.0498471490411</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93488360077311,50.03453762077709</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.934999352008482,50.03401589279433</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918373259162856,50.013734086589885</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.918267633955825,50.01337778590025</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.022204097125336,50.08493773940914</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.975774949262803,50.07678070241604</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.957417911033435,50.08334005748997</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.947893586350702,50.08816077094833</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91115525392518,50.074303398731</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.914846140171136,50.073387713905504</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.924703889479826,50.058013159246165</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.984668657673584,50.08066809898691</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.996090860335123,50.020809400095615</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.985815428838592,50.07953149390011</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95327590977411,50.04090861785044</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94786286343363,50.03957492156999</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96228603688632,50.073852585803735</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.915643260080316,50.073226048190996</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92300391211978,50.07129808930906</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91848071011641,50.05261047717294</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96656734536434,50.06132062070564</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x14)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.954557419099352,50.066643528947665</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.983117768571315,50.045446718192274</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.858012516238976,50.029617817974575</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.872933216479282,49.9891313939174</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.952825817264884,50.01727801775828</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.942518127987142,50.02118692315278</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.908221279422115,50.04547946816464</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.909385356316086,50.045988733350704</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.01750975487841,50.01946601378945</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.98229373184445,50.01794612652669</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.98264422183019,50.01585498823432</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9825040537556,50.01597147421088</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.97772229099337,50.0194283904458</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.021675392806348,50.09933475036472</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.933366378211655,50.030639604993844</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.916663080277136,50.05513843547037</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.932229494189652,50.0593388191715</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93172158970724,50.06208607591339</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.919808966260934,50.052760517073644</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.91945166152646,50.052595749654316</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x25)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.999286027191808,50.012247549145464</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.000019570990936,50.0109108290788</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.999897525784956,50.010755697530904</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.00175500197241,50.012302675006694</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.001553827241676,50.011994143432204</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.041513476465262,50.06915257968537</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.98348335316476,50.07398250889168</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x12)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.945568809048677,50.05761283796866</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.018098123077408,50.09904700500321</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.047988817589452,50.015831587520445</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.952589767395683,50.01724863169321</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.047520771655545,50.07915128789798</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.00920793019821,50.090185429616135</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94601676262304,50.041186247222846</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04151387995551,50.01855449042313</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.882009442994892,50.0842682569879</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.00542811133695,50.01886184517194</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94237063527021,50.02106344540513</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.018264743912905,50.08902726496071</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.965734603231763,50.006100126479545</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.00479477394503,50.01484180029093</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95142711269079,50.01011302376277</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9648990945951,50.08304318451837</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.921270114907507,50.01666622606574</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.96395101765174,50.062898680743885</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.99982623362042,50.0909446153427</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.986134730576207,50.022174749984835</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x15)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.967459766196946,50.081986269181336</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.984270678532233,50.07383661123243</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.008004372436616,50.092643124400524</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.972187244417615,50.087710510323234</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.009210361646733,50.0134034034032</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.900319296912755,50.073297326132774</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x20)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.87378948375435,50.01667318334267</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04808093387481,50.076204289068514</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.922837699487577,50.08973783045805</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x12)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93296421194155,50.09405310057303</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.055008912629972,50.095735851829744</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.984569325377922,50.0771664420651</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.905788740679473,50.107078774038605</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.913400179215344,50.08688975974604</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.013779672370045,50.068959474601414</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.022567677479582,50.07583549115333</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.955105847488483,50.041906195168025</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.001566903939093,50.01645554697931</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9662325764892,50.09151971608843</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.948568460286392,50.053751437876265</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.95033386092595,50.05617379846305</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94778901519331,50.056577778596896</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x9)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.946678572484693,50.04888166199323</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94453084458981,50.0491665561009</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.959786075497576,50.02397741180361</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.981426838374578,50.01923176174971</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.98234305019917,50.0186250582899</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.909859438189617,50.07228199740145</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.90996956971873,50.072533873323515</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.936820810816258,50.07799890196719</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.932733405786934,50.02264129772993</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93282698976856,50.02238946368411</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.932969221681354,50.022043670068996</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.90416345110229,50.076079928050085</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.97620354070693,50.07231771789857</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.968765065084774,50.08142076981506</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.968925844816322,50.08124689507578</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.969543864660476,50.08210057123872</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.955971936313396,50.082474097676226</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.956313480439743,50.082832877505744</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94813873757962,50.088442790245736</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.058323418143555,50.09665755137207</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.030452162271747,50.08080937185653</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x16)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.944772362692458,50.048504681726186</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.938858997327216,50.05041174709857</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.040675495436062,50.079611509034855</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.041081560791163,50.079842784043706</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04050851918033,50.08001239641242</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04267197332778,50.08083101656903</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.043607559279963,50.078555151192695</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.044704781144404,50.07891968080406</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.045275445611004,50.07955356307493</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04325317466712,50.08014892038569</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.042772639929577,50.080457297607744</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.047292727650103,50.077187549503435</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.929104606370753,50.0641962890996</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.923796578903087,50.06289303537091</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92815751367064,50.063394261431796</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.93032784911654,50.06341817639446</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x10)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.01615136285085,50.00598399029303</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x7)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.01272752468068,50.00681834459284</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.944237312462587,50.052678398648766</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.941436869443656,50.04223673033534</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94131803919049,50.0423086804217</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94233425686237,50.042888410447524</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.940242870274183,50.041279410950864</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.947009258125533,50.06237056917699</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94164242612135,50.065919173224366</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.934864012069127,50.060690116026386</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.925636607930237,50.05891856086657</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.03834849025932,50.08125364213967</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04593947486229,50.07499242507728</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04592698946293,50.07568368389282</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x8)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04956698514756,50.07588725404394</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04920576410479,50.06865793824079</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.045539148153505,50.067180535873675</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.03936050515331,50.07214242816389</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.92328667823506,50.070624660974254</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.921338111479603,50.079811776798564</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.047680058903225,50.07726956659493</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x12)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.073227653151015,50.09952238644867</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.05663192087321,50.080481557410465</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.046959792296153,50.06705023686276</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.852121007788462,50.02814432794829</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.033717770632503,50.043069396654666</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.872305181055054,50.0160928677553</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94961626585621,49.979264681153005</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x24)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.910716877547188,50.06302260704073</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.924415753568677,50.05463579876308</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04635498775056,50.07670295288702</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04816784056559,50.07399086627763</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.047840821692343,50.07454986141803</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.963909026899806,50.067267436741524</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.964719926725763,50.0667811801489</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9672102718816,50.05002308517482</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x6)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.94232333218119,50.05553509079571</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.900458293266556,49.98885999520093</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.9365710573603,50.059029108715</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.966311522009196,50.06729291753551</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.045608646232782,50.08020163323596</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.013470103305885,50.09656594701971</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.015179558891226,50.08957996011193</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.04720735058331,50.08701919149399</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.950333850800007,50.05617349446472</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x1)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.01943737274702,50.08588103608798</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x5)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.916090830360357,50.088433371718374</coordinates></Point>
+  </Placemark>  <Placemark>
+    <name> (x2)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.97471444321079,50.012341459105194</coordinates></Point>
   </Placemark>
 </Document>
 </kml>
