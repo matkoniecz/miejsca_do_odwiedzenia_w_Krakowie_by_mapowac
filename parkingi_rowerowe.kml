@@ -928,10 +928,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.950531999877395,50.05631800111138</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92807903062593,50.06337269835783</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91297800056175,50.05397400089293</coordinates></Point>
@@ -1352,6 +1348,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.96228603688632,50.073852585803735</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> (x3)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.902866808840102,50.08442169423102</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> (x8)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.915643260080316,50.073226048190996</coordinates></Point>
@@ -1712,10 +1712,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.956313480439743,50.082832877505744</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.94813873757962,50.088442790245736</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.058323418143555,50.09665755137207</coordinates></Point>
@@ -1771,14 +1767,6 @@
     <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.923796578903087,50.06289303537091</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.92815751367064,50.063394261431796</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93032784911654,50.06341817639446</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
