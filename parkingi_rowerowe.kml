@@ -312,10 +312,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.920234999649843,50.06715300080906</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.003741335950696,50.083941226824415</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.925035999408852,50.05704200112212</coordinates></Point>
@@ -484,6 +480,10 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.858276839893062,50.029740132372346</coordinates></Point>
   </Placemark>  <Placemark>
+    <name> (x4)</name>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.979988999421792,50.075331001340274</coordinates></Point>
+  </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.02189842225975,50.08672790519932</coordinates></Point>
@@ -531,10 +531,6 @@
     <name> (x14)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.962394514028542,50.07399752227869</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.976244999333513,50.071464001151384</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -608,10 +604,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.983684611672626,50.08040979478752</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.00734567042829,50.08322636972658</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.925129000519274,50.071175000854396</coordinates></Point>
@@ -627,10 +619,6 @@
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.92463900028465,50.089943001264345</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007230465691393,50.08303780897363</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x11)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -700,14 +688,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.873102999449458,49.98911300125641</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x6)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.926510188821055,50.058327864303564</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x7)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007316000625455,50.08316900086277</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.94440700013235,50.05580600095656</coordinates></Point>
@@ -760,10 +740,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.959038999427275,50.05492600063386</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x5)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918110999896605,50.0551380012401</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x10)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.936885000040537,50.04106900094157</coordinates></Point>
@@ -771,10 +747,6 @@
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.966620999558153,50.066454001195986</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.918926000664783,50.05427000058462</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -936,10 +908,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.9463760005488,50.05719800049889</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x15)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.007215000118546,50.08300100137791</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.965979000206826,50.02251000048155</coordinates></Point>
@@ -976,10 +944,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.942256000105402,50.041729000957</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.89481000058056,50.069440000751804</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x4)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93077800055032,50.05753000049567</coordinates></Point>
@@ -999,10 +963,6 @@
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.9265969993302,50.011233001209284</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x1)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.894819999689457,50.06948900071635</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1148,10 +1108,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.91338409640994,50.06891176918628</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.975034306031763,50.071534933531986</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.977455513743283,50.059123523550234</coordinates></Point>
@@ -1163,10 +1119,6 @@
     <name> (x5)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.934099861741675,50.0567284224935</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.93302091507306,50.058587457525086</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x3)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1416,14 +1368,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.933366378211655,50.030639604993844</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.916663080277136,50.05513843547037</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.932229494189652,50.0593388191715</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.93172158970724,50.06208607591339</coordinates></Point>
@@ -1459,10 +1403,6 @@
     <name> (x7)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.041513476465262,50.06915257968537</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x9)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.98348335316476,50.07398250889168</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x12)</name>
     <styleUrl>#placemark-yellow</styleUrl>
@@ -1676,10 +1616,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.932969221681354,50.022043670068996</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x4)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>19.97620354070693,50.07231771789857</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.968765065084774,50.08142076981506</coordinates></Point>
@@ -1738,10 +1674,6 @@
   </Placemark>  <Placemark>
     <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.045275445611004,50.07955356307493</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x2)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.04325317466712,50.08014892038569</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x4)</name>
@@ -1795,10 +1727,6 @@
     <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>20.03834849025932,50.08125364213967</coordinates></Point>
-  </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.04593947486229,50.07499242507728</coordinates></Point>
   </Placemark>  <Placemark>
     <name> (x6)</name>
     <styleUrl>#placemark-yellow</styleUrl>
