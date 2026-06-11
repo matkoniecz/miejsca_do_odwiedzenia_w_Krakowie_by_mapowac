@@ -564,10 +564,6 @@
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.95640299935139,50.05761100100384</coordinates></Point>
   </Placemark>  <Placemark>
-    <name> (x3)</name>
-    <styleUrl>#placemark-yellow</styleUrl>
-    <Point><coordinates>20.02086899994021,50.05899800116282</coordinates></Point>
-  </Placemark>  <Placemark>
     <name> (x2)</name>
     <styleUrl>#placemark-yellow</styleUrl>
     <Point><coordinates>19.924738999509152,50.0568880013326</coordinates></Point>
